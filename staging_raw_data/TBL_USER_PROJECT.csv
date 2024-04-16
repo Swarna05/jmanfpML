@@ -1,0 +1,1111 @@
+ID,USER_ID,PROJECT_NAME,PROJECT_DESCRIPTION,STATUS,PROJECT_LINK
+1,486,PixelNest,Developing a scalable web application using microservices architecture,Approved,http://www.example.com/project35
+2,215,CodeSavvy,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Approved,http://www.example.com/project32
+3,420,DataSphere,Building a decentralized finance (DeFi) platform for peer-to-peer lending,Approved,http://www.example.com/project89
+4,110,CyberMatrix,Creating a mobile application with cross-platform compatibility using React Native,Pending,http://www.example.com/project89
+6,369,TechSavvy,Designing a fault-tolerant network infrastructure for mission-critical applications,Rejected,http://www.example.com/project76
+7,279,DataSphere,Implementing load balancing and auto-scaling for cloud applications,Approved,http://www.example.com/project51
+8,18,InnovateWave,Designing a decentralized storage network for distributed file storage,Rejected,http://www.example.com/project12
+9,375,PixelGenius,Developing a peer-to-peer lending platform with blockchain technology,Approved,http://www.example.com/project7
+10,142,ByteBlaze,Building a data lake for centralized storage and analysis of big data,Approved,http://www.example.com/project154
+11,398,InnovateMatrix,Building a content management system with headless CMS architecture,Approved,http://www.example.com/project57
+12,381,CodeBlaze,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Rejected,http://www.example.com/project3
+13,408,ByteCloud,Building a decentralized storage network for secure and censorship-resistant file storage,Rejected,http://www.example.com/project158
+14,37,AppSphere,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project76
+15,234,PixelCloud,Developing a decentralized prediction market platform for crowd-sourced forecasting,Pending,http://www.example.com/project165
+16,12,CodeBlaze,Designing a geospatial application for location-based services,Rejected,http://www.example.com/project120
+17,287,DataSphere,Building a blockchain-based digital identity verification system,Rejected,http://www.example.com/project127
+18,480,AppSphere,Building a machine learning model for predictive analytics in cybersecurity,Rejected,http://www.example.com/project123
+19,292,CyberDynamics,Designing a network intrusion detection system for cybersecurity,Pending,http://www.example.com/project148
+20,80,PixelCloud,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project150
+21,197,TechForge,Developing a blockchain-based property ownership registry for real estate transactions,Pending,http://www.example.com/project132
+22,303,DataWorks,Developing a peer-to-peer lending platform with blockchain technology,Approved,http://www.example.com/project84
+23,389,AppBlast,Designing a serverless data processing pipeline for real-time analytics,Rejected,http://www.example.com/project125
+24,508,TechSavvy,Implementing a decentralized governance framework for decentralized autonomous organizations (DAOs),Rejected,http://www.example.com/project18
+25,463,InnovateMatrix,Developing a content recommendation engine for personalized experiences,Rejected,http://www.example.com/project7
+26,300,CyberForge,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project37
+27,47,AppWorks,Implementing a hybrid identity management solution for user access control,Approved,http://www.example.com/project24
+28,69,CyberBlast,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project159
+29,138,AppBlast,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Approved,http://www.example.com/project148
+30,137,InnovatePulse,Designing a virtual reality application for immersive training simulations,Rejected,http://www.example.com/project31
+31,16,PixelWave,Designing a network intrusion detection system for cybersecurity,Pending,http://www.example.com/project59
+32,258,ByteHub,Designing a blockchain-based supply chain management solution for traceability,Pending,http://www.example.com/project143
+33,35,ByteGenius,Designing a secure multi-party computation protocol for privacy-preserving computation,Rejected,http://www.example.com/project70
+34,489,CodeNest,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project98
+35,150,PixelGenius,Designing a distributed file system for efficient data storage and retrieval,Approved,http://www.example.com/project124
+36,379,DataGenius,Designing and deploying a high-availability architecture for web applications,Approved,http://www.example.com/project77
+37,68,AppInfinity,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project122
+38,362,CodePulse,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project95
+39,296,CyberBlast,Designing a decentralized storage network for distributed file storage,Approved,http://www.example.com/project85
+40,242,CyberBlast,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project33
+41,388,DataGenius,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project102
+42,312,QuantumSolutions,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project19
+43,159,CodeCraft,Building a distributed consensus algorithm for decentralized applications,Rejected,http://www.example.com/project64
+45,156,PixelCloud,Implementing feature toggles for controlled release of software features,Approved,http://www.example.com/project38
+47,124,PixelNest,Integrating AI-driven automation for optimizing IT operations,Approved,http://www.example.com/project85
+48,149,TechNest,Developing a chatbot using natural language processing for customer support,Approved,http://www.example.com/project139
+49,94,PixelWave,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project157
+51,53,InnovateMatrix,Designing a decentralized crowdfunding platform for tokenized fundraising,Approved,http://www.example.com/project36
+52,143,CodeCraft,Implementing containerization with Docker for application deployment,Pending,http://www.example.com/project5
+53,36,CyberBlast,Developing a hybrid cloud infrastructure for flexible resource management,Rejected,http://www.example.com/project46
+54,428,DataSavvy,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project156
+55,423,CyberNexa,Building a scalable data warehouse for business intelligence analytics,Rejected,http://www.example.com/project120
+57,102,DataSphere,Building a content management system with headless CMS architecture,Approved,http://www.example.com/project57
+59,65,TechForge,Building a decentralized messaging protocol for secure communication,Approved,http://www.example.com/project97
+60,24,PixelNest,Creating a knowledge base system for internal documentation and collaboration,Rejected,http://www.example.com/project158
+61,427,CodeBurst,Building a continuous monitoring solution for infrastructure security,Rejected,http://www.example.com/project19
+62,203,CodeForge,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project59
+63,352,InnovateForge,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Rejected,http://www.example.com/project127
+64,271,AppNexus,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project118
+65,460,CodeCrafters,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project70
+66,504,ByteSphere,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project151
+67,380,InnovateForge,Building a collaborative project management platform for teams,Pending,http://www.example.com/project1
+68,337,AppSphere,Designing a data anonymization solution for privacy protection,Rejected,http://www.example.com/project87
+69,155,DataWorks,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project113
+70,29,ByteBlaze,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project45
+71,96,CodeBlaze,Developing a blockchain-based property ownership registry for real estate transactions,Rejected,http://www.example.com/project69
+72,185,AppMatrix,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project49
+74,254,CodeCraft,Designing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project6
+75,238,TechSavvy,Designing a data governance framework for regulatory compliance,Approved,http://www.example.com/project23
+76,24,ByteBlaze,Building a scalable backend system using serverless architecture,Approved,http://www.example.com/project164
+77,245,CodeGenius,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Approved,http://www.example.com/project62
+78,140,CodePulse,Integrating AI-driven automation for optimizing IT operations,Approved,http://www.example.com/project30
+79,99,DataSphere,Integrating biometric authentication for user identity verification,Approved,http://www.example.com/project73
+80,459,CyberMatrix,Developing a peer-to-peer lending platform with blockchain technology,Rejected,http://www.example.com/project70
+81,66,CodeBurst,Designing a decentralized storage network for distributed file storage,Rejected,http://www.example.com/project71
+82,155,PixelCloud,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project114
+83,40,TechSavvy,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project93
+84,53,PixelCloud,Building a scalable data warehouse for business intelligence analytics,Pending,http://www.example.com/project60
+86,502,InnovateMatrix,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project153
+87,234,CodeGenius,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project79
+88,21,CodeNexus,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project63
+89,16,AppSphere,Implementing differential privacy techniques for data anonymization,Approved,http://www.example.com/project32
+91,408,CodeGenius,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project82
+92,432,InnovatePulse,Implementing real-time data streaming for monitoring system performance,Rejected,http://www.example.com/project16
+93,169,ByteHub,Building a collaborative project management platform for teams,Pending,http://www.example.com/project85
+94,457,DataWorks,Building a blockchain-based digital identity management system for secure authentication,Pending,http://www.example.com/project66
+95,434,CyberNauts,Implementing a distributed ledger technology for supply chain transparency,Approved,http://www.example.com/project28
+96,156,DataBlast,Implementing a zero-trust security model for network security,Rejected,http://www.example.com/project20
+97,286,CodeBlaze,Implementing a data governance framework for data quality management,Rejected,http://www.example.com/project99
+98,122,CodeCrafters,Designing a decentralized marketplace for digital assets trading,Approved,http://www.example.com/project79
+99,404,InnovatePulse,Building an AI-powered virtual assistant for automated customer support,Rejected,http://www.example.com/project137
+100,264,ByteBlaze,Designing a network intrusion detection system for cybersecurity,Approved,http://www.example.com/project125
+101,338,AppMatrix,Designing a distributed file system for efficient data storage and retrieval,Approved,http://www.example.com/project108
+102,158,TechNest,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project108
+103,53,PixelPioneer,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project64
+104,430,CodeCrafters,Implementing differential privacy techniques for data anonymization,Approved,http://www.example.com/project90
+105,141,InnovatePulse,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project84
+106,412,ByteHub,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project98
+107,80,PixelWave,Implementing containerization with Docker for application deployment,Pending,http://www.example.com/project6
+108,127,PixelCloud,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project20
+109,136,PixelNest,Building a secure messaging platform with end-to-end encryption,Pending,http://www.example.com/project41
+110,457,CodeSavvy,Designing a fault-tolerant network infrastructure for mission-critical applications,Approved,http://www.example.com/project120
+111,259,InnovateMatrix,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project34
+112,365,QuantumSolutions,Implementing multi-factor authentication for enhanced security measures,Approved,http://www.example.com/project95
+113,124,CodeCrafters,Developing a gamification platform for employee engagement and training,Rejected,http://www.example.com/project73
+115,258,TechNest,Designing a geospatial application for location-based services,Rejected,http://www.example.com/project116
+116,348,CyberBlast,Developing a decentralized identity verification system for KYC compliance,Rejected,http://www.example.com/project126
+117,497,InnovateWave,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project74
+118,299,CodeGenie,Creating a data visualization dashboard for business intelligence reporting,Rejected,http://www.example.com/project26
+119,100,AppSphere,Building a secure messaging platform with end-to-end encryption,Rejected,http://www.example.com/project126
+121,242,ByteBlaze,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Rejected,http://www.example.com/project91
+122,105,CodeSavvy,Implementing a blockchain-based supply chain traceability solution,Approved,http://www.example.com/project158
+123,459,DataGenius,Creating a data visualization dashboard for business intelligence reporting,Rejected,http://www.example.com/project81
+124,441,TechNest,Designing a blockchain-based supply chain management solution for traceability,Approved,http://www.example.com/project118
+125,320,CyberBlast,Designing a geospatial application for location-based services,Approved,http://www.example.com/project82
+126,392,DataGenius,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project115
+127,254,DigitalDynamics,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Approved,http://www.example.com/project65
+128,423,CodeCrafters,Integrating AI-driven automation for optimizing IT operations,Pending,http://www.example.com/project129
+129,356,DataMatrix,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project117
+130,173,TechPulse,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project162
+131,331,PixelWave,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project29
+132,168,InnovatePulse,Designing a geospatial application for location-based services,Pending,http://www.example.com/project94
+133,246,ByteHub,Implementing real-time data streaming for monitoring system performance,Rejected,http://www.example.com/project26
+134,249,DataSphere,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project18
+135,367,CodeGenius,Building a fault-tolerant distributed messaging system,Approved,http://www.example.com/project44
+137,416,AppWorks,Integrating IoT sensors for monitoring and control of smart devices,Pending,http://www.example.com/project104
+138,89,CyberDynamics,Developing a sentiment analysis tool for social media monitoring,Rejected,http://www.example.com/project164
+139,423,AppNexus,Implementing single sign-on authentication for seamless user access,Pending,http://www.example.com/project134
+140,378,CodeBlaze,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project161
+141,389,InnovateWave,Building a decentralized messaging protocol for secure communication,Pending,http://www.example.com/project99
+142,496,AppSphere,Designing a self-sovereign identity solution using blockchain technology,Approved,http://www.example.com/project21
+143,398,PixelForge,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project79
+144,125,CodeCloud,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project123
+145,120,ByteBlaze,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project117
+146,247,TechCraft,Implementing DevOps practices for continuous integration and delivery,Approved,http://www.example.com/project49
+147,157,CodeNest,Building a collaborative project management platform for teams,Approved,http://www.example.com/project102
+148,430,TechSavvy,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project78
+149,80,InnovateMatrix,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project31
+150,170,InnovateForge,Developing a privacy-preserving data sharing platform using homomorphic encryption,Pending,http://www.example.com/project116
+152,230,CyberBlast,Implementing CI/CD pipelines for automated deployment of software updates,Pending,http://www.example.com/project46
+154,304,CodeCrafters,Designing a decentralized social media platform for censorship-resistant communication,Approved,http://www.example.com/project44
+155,22,CodeWave,Designing a disaster recovery plan for business continuity,Approved,http://www.example.com/project75
+156,231,CyberDynamics,Developing an automated testing framework for software quality assurance,Pending,http://www.example.com/project44
+157,248,ByteCloud,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project46
+159,181,AppMatrix,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project41
+160,30,AppInfinity,Designing a decentralized social media platform for censorship-resistant communication,Approved,http://www.example.com/project77
+161,60,TechForge,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project1
+162,307,ByteHub,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project140
+163,51,DataWorks,Developing a peer-to-peer lending platform with blockchain technology,Pending,http://www.example.com/project22
+164,179,ByteSphere,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project67
+165,148,InnovatePulse,Designing a secure multi-party computation protocol for privacy-preserving computation,Pending,http://www.example.com/project140
+166,217,CyberBlast,Building a decentralized messaging protocol for secure communication,Pending,http://www.example.com/project100
+167,164,DataGenius,Developing a privacy-preserving data sharing platform using homomorphic encryption,Approved,http://www.example.com/project146
+168,448,AppBlast,Building an automated incident response system for cybersecurity,Rejected,http://www.example.com/project26
+170,58,CyberDynamics,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project102
+171,500,DataMatrix,Building a decentralized reputation system for online communities,Approved,http://www.example.com/project65
+172,216,ByteBlaze,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project150
+173,133,DataSphere,Developing a gamification platform for employee engagement and training,Pending,http://www.example.com/project7
+174,509,CodeBlaze,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project92
+175,189,ByteCloud,Integrating blockchain technology for secure transactions in a financial application,Approved,http://www.example.com/project18
+176,83,ByteCloud,Developing a scalable web application using microservices architecture,Pending,http://www.example.com/project62
+177,332,CyberDynamics,Implementing server-side rendering for optimized web performance,Rejected,http://www.example.com/project124
+178,141,InnovateForge,Designing a network intrusion detection system for cybersecurity,Pending,http://www.example.com/project98
+179,250,InnovateForge,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project146
+181,102,InnovateWave,Integrating IoT sensors for monitoring and control of smart devices,Rejected,http://www.example.com/project15
+182,424,AppSphere,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project124
+183,453,CyberBlast,Developing an automated testing framework for software quality assurance,Rejected,http://www.example.com/project108
+184,73,InnovateMatrix,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Rejected,http://www.example.com/project101
+185,436,ByteCloud,Building a data lake for centralized storage and analysis of big data,Approved,http://www.example.com/project144
+187,211,AppSphere,Developing a decentralized prediction market platform for crowd-sourced forecasting,Approved,http://www.example.com/project25
+188,163,CyberSphere,Implementing data masking techniques for sensitive data protection,Rejected,http://www.example.com/project165
+189,484,AppMatrix,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project142
+190,324,ByteBlaze,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Rejected,http://www.example.com/project94
+191,316,AppWorks,Designing a federated learning system for collaborative machine learning,Rejected,http://www.example.com/project148
+193,313,ByteHub,Building a blockchain-based digital identity management system for secure authentication,Rejected,http://www.example.com/project40
+194,227,CyberMatrix,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project107
+195,203,TechSavvy,Building a continuous monitoring solution for infrastructure security,Approved,http://www.example.com/project17
+196,101,CodeSavvy,Designing and deploying a container orchestration system with Kubernetes,Pending,http://www.example.com/project28
+197,148,CyberSphere,Developing a content recommendation engine for personalized experiences,Rejected,http://www.example.com/project138
+198,306,ByteCloud,Building a recommendation engine based on user behavior analysis,Approved,http://www.example.com/project29
+199,508,CodeCraft,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project154
+200,202,InnovateWave,Developing a supply chain management platform with blockchain technology,Rejected,http://www.example.com/project123
+201,257,DataSphere,Developing a tokenization platform for asset digitization and trading,Rejected,http://www.example.com/project102
+202,59,CodeBurst,Designing a fault-tolerant network infrastructure for mission-critical applications,Approved,http://www.example.com/project159
+204,106,InnovateForge,Building a mobile wallet application for digital currency transactions,Approved,http://www.example.com/project21
+205,163,CodeBurst,Building a machine learning model for predictive analytics in cybersecurity,Pending,http://www.example.com/project97
+206,79,CyberMatrix,Implementing a blockchain-based supply chain traceability solution,Approved,http://www.example.com/project42
+207,441,DataMatrix,Developing a smart contract auditing tool for blockchain security,Rejected,http://www.example.com/project62
+208,41,CodePulse,Implementing a data governance framework for data quality management,Rejected,http://www.example.com/project157
+209,333,InnovateSavvy,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project70
+210,369,CodeNest,Developing a scalable web application using microservices architecture,Rejected,http://www.example.com/project31
+211,209,AppWorks,Implementing a blockchain-based supply chain traceability solution,Pending,http://www.example.com/project61
+212,181,ByteSphere,Developing an e-commerce platform with personalized user experiences,Approved,http://www.example.com/project97
+213,348,CodeNexus,Implementing data masking techniques for sensitive data protection,Pending,http://www.example.com/project81
+214,305,CodeSavvy,Implementing a decentralized governance framework for decentralized autonomous organizations (DAOs),Pending,http://www.example.com/project79
+215,355,CodeCrafters,Developing a scalable web application using microservices architecture,Rejected,http://www.example.com/project65
+216,398,DigitalDynamics,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project51
+217,147,CodeBurst,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project130
+218,371,TechRangers,Designing a disaster recovery plan for business continuity,Pending,http://www.example.com/project115
+221,54,DataSphere,Designing a geospatial application for location-based services,Approved,http://www.example.com/project85
+222,427,PixelNest,Designing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project99
+223,468,DataGenius,Building a decentralized reputation system for online communities,Approved,http://www.example.com/project47
+224,88,PixelCloud,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project78
+225,114,ByteBlaze,Developing a scalable web application using microservices architecture,Approved,http://www.example.com/project136
+226,308,DataBlast,Developing a compliance management platform for regulatory requirements,Approved,http://www.example.com/project153
+227,224,DataNest,Integrating biometric authentication for user identity verification,Pending,http://www.example.com/project90
+228,43,CodeCraft,Designing and implementing a cloud-based infrastructure for data storage and processing,Rejected,http://www.example.com/project72
+230,325,DataGenius,Building a blockchain-based digital identity management system for secure authentication,Pending,http://www.example.com/project49
+231,350,CodeNexus,Building a scalable data warehouse for business intelligence analytics,Rejected,http://www.example.com/project82
+232,174,PixelNest,Developing an e-commerce platform with personalized user experiences,Pending,http://www.example.com/project74
+233,66,DataSphere,Developing a supply chain management platform with blockchain technology,Pending,http://www.example.com/project23
+234,263,AppBlast,Building an AI-powered virtual assistant for automated customer support,Pending,http://www.example.com/project130
+236,377,CodeNest,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project145
+237,149,AppNexus,Developing a decentralized autonomous organization (DAO) governance model,Approved,http://www.example.com/project40
+238,65,AppMatrix,Building a recommendation engine based on user behavior analysis,Pending,http://www.example.com/project39
+239,252,TechForge,Integrating biometric authentication for user identity verification,Approved,http://www.example.com/project121
+240,111,InnovateMatrix,Building an AI-powered virtual assistant for automated customer support,Approved,http://www.example.com/project95
+241,135,CodePulse,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project115
+242,464,TechForge,Implementing load balancing and auto-scaling for cloud applications,Rejected,http://www.example.com/project47
+243,265,AppMatrix,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Rejected,http://www.example.com/project127
+244,101,TechPulse,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project129
+245,497,InnovateForge,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project54
+246,404,PixelCloud,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project24
+247,215,DataWorks,Creating a knowledge base system for internal documentation and collaboration,Approved,http://www.example.com/project70
+248,432,CyberForge,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project26
+249,135,TechCraft,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Approved,http://www.example.com/project20
+250,506,PixelCloud,Designing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project28
+251,197,CodeBurst,Building a distributed consensus algorithm for decentralized applications,Approved,http://www.example.com/project131
+252,147,PixelCloud,Implementing CI/CD pipelines for automated deployment of software updates,Rejected,http://www.example.com/project161
+253,105,PixelCloud,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Rejected,http://www.example.com/project80
+254,292,InnovateForge,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project135
+255,142,InnovatePulse,Designing a federated learning system for collaborative machine learning,Pending,http://www.example.com/project139
+256,265,CodeSavvy,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project1
+257,111,CodeCrafters,Integrating blockchain technology for secure transactions in a financial application,Rejected,http://www.example.com/project43
+258,136,TechPulse,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project131
+260,299,CodeBurst,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project87
+261,143,AppMatrix,Building a mobile wallet application for digital currency transactions,Rejected,http://www.example.com/project24
+262,379,TechSavvy,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project127
+263,324,DataNest,Implementing DevOps practices for continuous integration and delivery,Approved,http://www.example.com/project123
+264,307,TechSavvy,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project15
+265,362,CodeNexus,Implementing single sign-on authentication for seamless user access,Rejected,http://www.example.com/project155
+266,53,ByteHub,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Rejected,http://www.example.com/project93
+267,13,AppMatrix,Implementing single sign-on authentication for seamless user access,Approved,http://www.example.com/project158
+268,254,DataMatrix,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project116
+269,99,ByteSphere,Integrating IoT sensors for monitoring and control of smart devices,Rejected,http://www.example.com/project86
+270,388,TechSavvy,Developing a scalable web application using microservices architecture,Rejected,http://www.example.com/project117
+272,111,DataGenius,Building a continuous monitoring solution for infrastructure security,Approved,http://www.example.com/project106
+273,170,CyberMatrix,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project100
+274,157,CyberMatrix,Building a content management system with headless CMS architecture,Rejected,http://www.example.com/project1
+275,257,DataWorks,Optimizing database performance and scalability for high-volume data processing,Approved,http://www.example.com/project73
+276,289,CodeNexus,Designing a disaster recovery plan for business continuity,Rejected,http://www.example.com/project9
+277,30,AppSphere,Building an anomaly detection system for cybersecurity threat detection,Approved,http://www.example.com/project62
+278,332,PixelWave,Implementing a decentralized finance (DeFi) lending protocol for peer-to-peer lending,Rejected,http://www.example.com/project40
+280,304,InnovateForge,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project113
+282,489,CodeCraft,Implementing single sign-on authentication for seamless user access,Approved,http://www.example.com/project74
+284,430,PixelNest,Implementing a data loss prevention solution for sensitive data protection,Rejected,http://www.example.com/project149
+285,452,ByteCloud,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project79
+286,169,CyberSphere,Building a recommendation engine based on user behavior analysis,Approved,http://www.example.com/project109
+287,286,PixelNest,Designing a disaster recovery plan for business continuity,Approved,http://www.example.com/project50
+288,356,InnovateSavvy,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project143
+289,226,CodeGenius,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project162
+290,181,CodeCloud,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Approved,http://www.example.com/project89
+291,457,CyberForge,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project126
+292,420,TechCraft,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project141
+293,504,AppSphere,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project120
+294,80,CodePulse,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Approved,http://www.example.com/project123
+295,163,PixelGenius,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project92
+297,279,ByteCloud,Building a distributed consensus algorithm for decentralized applications,Approved,http://www.example.com/project88
+298,486,CodeNest,Developing a blockchain-based property ownership registry for real estate transactions,Approved,http://www.example.com/project149
+299,32,CodeNest,Designing a federated learning system for collaborative machine learning,Rejected,http://www.example.com/project48
+300,405,AppBlast,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project137
+301,508,CodeGenius,Designing a serverless data processing pipeline for real-time analytics,Rejected,http://www.example.com/project148
+302,496,InnovatePulse,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project77
+303,141,DataNest,Developing a gamification platform for employee engagement and training,Rejected,http://www.example.com/project44
+304,125,CodeCraft,Building a scalable data warehouse for business intelligence analytics,Pending,http://www.example.com/project133
+305,164,ByteHub,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project38
+306,96,ByteHub,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Pending,http://www.example.com/project132
+308,149,CodeCraft,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project9
+310,16,AppBlast,Developing a gamification platform for employee engagement and training,Approved,http://www.example.com/project154
+311,62,CodeGenius,Building an automated incident response system for cybersecurity,Approved,http://www.example.com/project83
+312,258,ByteSphere,Building an anomaly detection system for cybersecurity threat detection,Rejected,http://www.example.com/project160
+313,168,ByteSphere,Building a decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project129
+314,120,PixelNest,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Rejected,http://www.example.com/project82
+315,54,CyberDynamics,Developing a hybrid cloud infrastructure for flexible resource management,Pending,http://www.example.com/project50
+316,68,AppMatrix,Building a fault-tolerant distributed messaging system,Approved,http://www.example.com/project31
+317,127,CodeCrafters,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project138
+318,102,InnovatePulse,Building a blockchain-based intellectual property registry for digital rights management,Pending,http://www.example.com/project47
+319,92,CodeNexus,Designing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project133
+321,203,CyberBlast,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project159
+322,325,CodeNexus,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project8
+323,203,PixelGenius,Building a fault-tolerant distributed messaging system,Rejected,http://www.example.com/project99
+324,136,InnovateMatrix,Developing a hybrid cloud infrastructure for flexible resource management,Rejected,http://www.example.com/project25
+325,316,DataBlast,Designing a secure multi-party computation protocol for privacy-preserving computation,Pending,http://www.example.com/project50
+326,423,AppWorks,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Rejected,http://www.example.com/project108
+327,375,InnovateForge,Building a fault-tolerant distributed messaging system,Approved,http://www.example.com/project72
+328,80,ByteBlaze,Building a collaborative project management platform for teams,Rejected,http://www.example.com/project24
+329,333,PixelCloud,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project57
+330,122,DataSphere,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project125
+331,155,CodeBlaze,Integrating blockchain technology for secure transactions in a financial application,Rejected,http://www.example.com/project46
+333,463,ByteGenius,Developing a tokenization platform for asset digitization and trading,Approved,http://www.example.com/project56
+334,271,CyberNauts,Building a decentralized reputation system for online communities,Rejected,http://www.example.com/project129
+335,247,PixelCloud,Implementing CI/CD pipelines for automated deployment of software updates,Rejected,http://www.example.com/project114
+336,231,DataMatrix,Implementing load balancing and auto-scaling for cloud applications,Approved,http://www.example.com/project82
+337,423,AppBlast,Creating a knowledge base system for internal documentation and collaboration,Rejected,http://www.example.com/project120
+338,40,TechCraft,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project95
+339,408,CodeCraft,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Pending,http://www.example.com/project124
+340,104,CyberDynamics,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project122
+341,457,PixelWave,Building an anomaly detection system for cybersecurity threat detection,Pending,http://www.example.com/project84
+343,12,InnovateMatrix,Developing a cybersecurity solution for threat detection and response,Approved,http://www.example.com/project141
+344,350,DataWorks,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project140
+345,140,InnovateSavvy,Developing a decentralized autonomous organization (DAO) governance model,Rejected,http://www.example.com/project98
+346,287,CodeGenius,Developing a blockchain-based tokenization platform for asset-backed securities,Approved,http://www.example.com/project105
+347,242,DataSphere,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project38
+348,234,DataNest,Developing a remote monitoring and management system for IT infrastructure,Pending,http://www.example.com/project99
+349,149,CyberBlast,Designing a decentralized storage network for distributed file storage,Approved,http://www.example.com/project85
+350,509,AppMatrix,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project104
+351,225,CyberMatrix,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Approved,http://www.example.com/project94
+352,338,CyberBlast,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project149
+353,83,CodeGenius,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Approved,http://www.example.com/project88
+354,500,CodeNexus,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project156
+355,398,CodeGenius,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project57
+356,286,CodeCrafters,Developing a tokenization platform for asset digitization and trading,Approved,http://www.example.com/project91
+357,223,CodeCrafters,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project161
+358,497,CodeCraft,Designing a decentralized storage network for distributed file storage,Approved,http://www.example.com/project147
+359,102,DataBlast,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project90
+360,417,CodeNest,Developing a decentralized identity verification system for KYC compliance,Approved,http://www.example.com/project98
+362,65,CodeSavvy,Designing a data classification system for information governance,Approved,http://www.example.com/project109
+363,16,TechCraft,Implementing CI/CD pipelines for automated deployment of software updates,Pending,http://www.example.com/project165
+364,455,AppMatrix,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Rejected,http://www.example.com/project135
+365,257,ByteGenius,Developing a supply chain management platform with blockchain technology,Pending,http://www.example.com/project13
+366,248,AppSphere,Developing a smart contract auditing tool for blockchain security,Approved,http://www.example.com/project118
+367,320,TechSavvy,Implementing CI/CD pipelines for automated deployment of software updates,Pending,http://www.example.com/project59
+368,484,ByteGenius,Designing a federated authentication system for seamless user access,Rejected,http://www.example.com/project155
+369,378,DataGenius,Building a blockchain-based intellectual property registry for digital rights management,Pending,http://www.example.com/project19
+370,156,CyberBlast,Building a decentralized messaging protocol for secure communication,Rejected,http://www.example.com/project80
+372,51,DataGenius,Integrating biometric authentication for user identity verification,Rejected,http://www.example.com/project144
+373,179,CodeGenius,Building a decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project81
+374,246,AppSphere,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project34
+375,126,CyberSphere,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project65
+376,211,ByteSphere,Designing a distributed ledger system for transparent record-keeping,Pending,http://www.example.com/project29
+377,367,InnovateSavvy,Designing and implementing a cloud-based infrastructure for data storage and processing,Approved,http://www.example.com/project143
+378,41,InnovateForge,Designing a distributed ledger system for transparent record-keeping,Rejected,http://www.example.com/project160
+379,58,InnovatePulse,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project73
+380,308,AppWorks,Integrating IoT sensors for monitoring and control of smart devices,Pending,http://www.example.com/project57
+381,252,DataMatrix,Implementing a decentralized finance (DeFi) lending protocol for peer-to-peer lending,Rejected,http://www.example.com/project56
+382,73,InnovateWave,Developing a smart contract auditing tool for blockchain security,Approved,http://www.example.com/project89
+383,489,InnovateForge,Creating a knowledge base system for internal documentation and collaboration,Rejected,http://www.example.com/project25
+384,427,TechPulse,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Rejected,http://www.example.com/project59
+385,434,ByteSphere,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project12
+386,298,CodeCrafters,Implementing a data loss prevention solution for sensitive data protection,Approved,http://www.example.com/project6
+387,79,DataGenius,Developing a gamification platform for employee engagement and training,Rejected,http://www.example.com/project55
+388,460,ByteSphere,Designing a decentralized social media platform for censorship-resistant communication,Pending,http://www.example.com/project73
+389,254,PixelPulse,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project34
+390,348,DataGenius,Implementing a hybrid identity management solution for user access control,Approved,http://www.example.com/project102
+391,348,PixelNest,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project152
+392,148,PixelWave,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Rejected,http://www.example.com/project111
+393,279,AppInfinity,Implementing a data governance framework for data quality management,Pending,http://www.example.com/project113
+394,174,TechCraft,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project9
+395,189,CodePulse,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Rejected,http://www.example.com/project24
+397,428,CodeNexus,Designing a secure multi-party computation protocol for privacy-preserving computation,Pending,http://www.example.com/project73
+398,264,InnovateForge,Implementing a blockchain-based supply chain traceability solution,Pending,http://www.example.com/project19
+399,134,CodeNexus,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project25
+400,141,CyberMatrix,Developing a hybrid cloud infrastructure for flexible resource management,Approved,http://www.example.com/project54
+402,238,DataBlast,Building a collaborative project management platform for teams,Pending,http://www.example.com/project59
+403,299,PixelCloud,Building a content management system with headless CMS architecture,Pending,http://www.example.com/project126
+404,197,CodePulse,Building a recommendation engine based on user behavior analysis,Rejected,http://www.example.com/project1
+405,436,TechnoSphere,Designing a decentralized marketplace for digital assets trading,Pending,http://www.example.com/project131
+406,35,InnovateForge,Developing a decentralized prediction market platform for crowd-sourced forecasting,Approved,http://www.example.com/project123
+408,489,ByteBlaze,Designing a serverless data processing pipeline for real-time analytics,Approved,http://www.example.com/project21
+409,357,CodeBlaze,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Approved,http://www.example.com/project5
+410,484,PixelCloud,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project18
+412,331,DataGenius,Developing a content recommendation engine for personalized experiences,Approved,http://www.example.com/project134
+413,120,CodeNest,Developing a privacy-preserving data sharing platform using homomorphic encryption,Approved,http://www.example.com/project149
+414,377,InnovateMatrix,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project78
+415,384,ByteCloud,Designing a decentralized storage network for distributed file storage,Pending,http://www.example.com/project109
+416,124,CodeWave,Building a blockchain-based intellectual property registry for digital rights management,Rejected,http://www.example.com/project82
+417,306,CyberBlast,Implementing real-time data streaming for monitoring system performance,Approved,http://www.example.com/project74
+418,89,AppMatrix,Building a decentralized messaging protocol for secure communication,Rejected,http://www.example.com/project143
+419,37,CodeCraft,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project161
+420,459,CodeWave,Building a blockchain-based intellectual property registry for digital rights management,Pending,http://www.example.com/project123
+421,137,DataWorks,Building an anomaly detection system for cybersecurity threat detection,Rejected,http://www.example.com/project49
+422,217,PixelNest,Developing a smart contract auditing tool for blockchain security,Pending,http://www.example.com/project94
+424,459,CyberDynamics,Designing and deploying a container orchestration system with Kubernetes,Rejected,http://www.example.com/project89
+425,28,CodeWave,Building a decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project155
+426,352,PixelGenius,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project156
+427,505,ByteHub,Integrating AI-driven automation for optimizing IT operations,Approved,http://www.example.com/project70
+428,416,PixelCloud,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Pending,http://www.example.com/project6
+429,338,PixelCloud,Developing a smart contract auditing tool for blockchain security,Rejected,http://www.example.com/project27
+430,499,CodeBurst,Developing a remote monitoring and management system for IT infrastructure,Pending,http://www.example.com/project109
+431,209,InnovateWave,Developing a supply chain management platform with blockchain technology,Approved,http://www.example.com/project102
+433,150,ByteSphere,Implementing a data governance framework for data quality management,Approved,http://www.example.com/project128
+434,148,CodeSavvy,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project148
+435,398,CodePulse,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project144
+436,371,CodeBurst,Designing a federated learning system for collaborative machine learning,Rejected,http://www.example.com/project8
+437,36,CyberMatrix,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project114
+438,242,CyberForge,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project73
+439,454,ByteCloud,Designing a data classification system for information governance,Approved,http://www.example.com/project46
+440,65,CyberMatrix,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Rejected,http://www.example.com/project47
+441,173,CodeSavvy,Designing a geospatial application for location-based services,Approved,http://www.example.com/project80
+443,172,AppMatrix,Building a decentralized reputation system for online communities,Approved,http://www.example.com/project10
+444,181,PixelCloud,Designing a disaster recovery plan for business continuity,Rejected,http://www.example.com/project118
+445,69,ByteGenius,Implementing a zero-trust security model for network security,Approved,http://www.example.com/project25
+446,172,CodeBlaze,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project86
+447,185,CodeForge,Building a distributed consensus algorithm for decentralized applications,Rejected,http://www.example.com/project79
+448,43,DataSphere,Designing a distributed file system for efficient data storage and retrieval,Pending,http://www.example.com/project29
+449,24,ByteHub,Developing a scalable web application using microservices architecture,Pending,http://www.example.com/project81
+450,424,TechSavvy,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Rejected,http://www.example.com/project134
+451,300,CyberDynamics,Implementing server-side rendering for optimized web performance,Pending,http://www.example.com/project25
+453,179,CyberBlast,Integrating IoT sensors for monitoring and control of smart devices,Rejected,http://www.example.com/project158
+455,412,TechPulse,Building a decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project9
+456,249,CyberMatrix,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project68
+457,88,TechNest,Integrating IoT sensors for monitoring and control of smart devices,Pending,http://www.example.com/project68
+458,114,DataWorks,Developing a cross-platform desktop application using Electron,Pending,http://www.example.com/project163
+459,18,PixelNest,Implementing a data governance framework for data quality management,Approved,http://www.example.com/project12
+460,408,CodeWave,Integrating AI-driven automation for optimizing IT operations,Approved,http://www.example.com/project67
+461,502,PixelWave,Implementing server-side rendering for optimized web performance,Approved,http://www.example.com/project89
+462,389,CodeBlaze,Developing a decentralized autonomous organization (DAO) governance model,Approved,http://www.example.com/project144
+463,381,InnovateForge,Building an AI-powered virtual assistant for automated customer support,Rejected,http://www.example.com/project125
+464,427,InnovateForge,Building a continuous monitoring solution for infrastructure security,Rejected,http://www.example.com/project114
+465,439,CodeNexus,Implementing feature toggles for controlled release of software features,Approved,http://www.example.com/project110
+466,460,CodePulse,Developing a tokenization platform for asset digitization and trading,Approved,http://www.example.com/project88
+467,110,ByteSphere,Developing a decentralized autonomous organization (DAO) governance model,Rejected,http://www.example.com/project1
+468,259,CodeBurst,Designing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project7
+469,392,AppWorks,Designing a distributed ledger system for transparent record-keeping,Approved,http://www.example.com/project109
+470,35,CodeSavvy,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Rejected,http://www.example.com/project59
+471,47,CyberForge,Designing a fault-tolerant network infrastructure for mission-critical applications,Pending,http://www.example.com/project98
+472,448,AppMatrix,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project162
+473,193,TechPulse,Designing and deploying a container orchestration system with Kubernetes,Rejected,http://www.example.com/project123
+474,250,TechForge,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project67
+475,45,InnovateMatrix,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project134
+476,398,CyberMatrix,Designing a fault-tolerant network infrastructure for mission-critical applications,Rejected,http://www.example.com/project39
+477,365,ByteCloud,Designing a decentralized content delivery network (CDN) for distributed content distribution,Rejected,http://www.example.com/project146
+478,493,InnovateSavvy,Implementing CI/CD pipelines for automated deployment of software updates,Approved,http://www.example.com/project143
+479,497,ByteHub,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project68
+481,389,DataBlast,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project26
+482,313,CyberBlast,Designing a fault-tolerant network infrastructure for mission-critical applications,Approved,http://www.example.com/project43
+483,156,ByteGenius,Implementing a data governance framework for data quality management,Pending,http://www.example.com/project108
+484,392,PixelGenius,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project71
+485,172,CodeCloud,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project27
+486,265,CyberSavvy,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project104
+487,222,InnovateSavvy,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project134
+488,156,AppWorks,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project91
+489,89,CodeNexus,Designing a distributed file system for efficient data storage and retrieval,Approved,http://www.example.com/project42
+490,489,DataSphere,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project14
+491,348,InnovateMatrix,Creating a data visualization dashboard for business intelligence reporting,Pending,http://www.example.com/project62
+492,129,AppSphere,Building a blockchain-based digital identity verification system,Rejected,http://www.example.com/project93
+493,388,CyberMatrix,Designing a serverless data processing pipeline for real-time analytics,Pending,http://www.example.com/project129
+494,60,CyberMatrix,Developing a gamification platform for employee engagement and training,Approved,http://www.example.com/project65
+495,24,AppWorks,Building a decentralized storage network for secure and censorship-resistant file storage,Pending,http://www.example.com/project31
+496,80,CyberBlast,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project10
+497,504,AppWorks,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project148
+498,250,DataMatrix,Building a continuous monitoring solution for infrastructure security,Approved,http://www.example.com/project147
+499,369,CodeSavvy,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Approved,http://www.example.com/project76
+500,37,CodeBurst,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Approved,http://www.example.com/project160
+501,408,TechNest,Building a secure messaging platform with end-to-end encryption,Approved,http://www.example.com/project155
+502,157,AppMatrix,Designing and deploying a container orchestration system with Kubernetes,Pending,http://www.example.com/project133
+503,486,PixelWave,Implementing load balancing and auto-scaling for cloud applications,Approved,http://www.example.com/project4
+504,21,ByteCloud,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project97
+506,125,InnovateForge,Building a knowledge graph for semantic search and recommendation,Pending,http://www.example.com/project146
+507,159,TechNest,Implementing data masking techniques for sensitive data protection,Pending,http://www.example.com/project150
+508,163,PixelNest,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project79
+509,247,TechPulse,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Rejected,http://www.example.com/project146
+510,338,TechNest,Implementing a customer relationship management system for sales automation,Pending,http://www.example.com/project41
+511,245,PixelCloud,Implementing a hybrid identity management solution for user access control,Approved,http://www.example.com/project139
+512,202,DataMatrix,Designing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project52
+513,102,CodeSavvy,Developing a compliance management platform for regulatory requirements,Approved,http://www.example.com/project89
+514,359,TechCraft,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project86
+515,94,CodePulse,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project119
+516,181,TechForge,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project31
+517,234,CodeSavvy,Developing a hybrid cloud infrastructure for flexible resource management,Rejected,http://www.example.com/project67
+518,22,PixelPulse,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Approved,http://www.example.com/project62
+519,441,PixelGenius,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project15
+520,179,CodeWave,Designing a data classification system for information governance,Rejected,http://www.example.com/project119
+521,378,PixelCloud,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project91
+523,53,CyberDynamics,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project146
+524,101,DataGenius,Implementing real-time data streaming for monitoring system performance,Approved,http://www.example.com/project86
+525,332,CodeCrafters,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project128
+526,417,InnovateSavvy,Developing a cloud-native application with AWS Lambda and API Gateway,Pending,http://www.example.com/project105
+527,30,AppMatrix,Building a blockchain-based digital identity management system for secure authentication,Approved,http://www.example.com/project137
+528,227,DataSphere,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project141
+529,181,TechPulse,Developing a chatbot using natural language processing for customer support,Pending,http://www.example.com/project128
+530,331,AppWorks,Designing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project54
+532,92,AppSphere,Designing a fault-tolerant network infrastructure for mission-critical applications,Rejected,http://www.example.com/project165
+533,398,CodeSavvy,Developing a cybersecurity solution for threat detection and response,Approved,http://www.example.com/project164
+534,248,CodeWave,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project98
+535,189,ByteBlaze,Implementing a data governance framework for data quality management,Rejected,http://www.example.com/project115
+536,62,CodeSavvy,Implementing a blockchain-based supply chain traceability solution,Rejected,http://www.example.com/project79
+537,67,TechMatrix,Designing a data classification system for information governance,Pending,http://www.example.com/project7
+538,333,CodeBurst,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project143
+539,16,ByteHub,Building a collaborative project management platform for teams,Rejected,http://www.example.com/project87
+540,234,CyberMatrix,Building a fault-tolerant distributed messaging system,Approved,http://www.example.com/project95
+541,299,DataWorks,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project162
+542,79,PixelCloud,Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management,Approved,http://www.example.com/project39
+544,59,PixelWave,Designing a data classification system for information governance,Pending,http://www.example.com/project98
+545,88,ByteCloud,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project43
+546,114,CodePulse,Building a secure messaging platform with end-to-end encryption,Approved,http://www.example.com/project5
+547,249,CodeWave,Designing a decentralized storage network for distributed file storage,Pending,http://www.example.com/project48
+548,45,AppSphere,Designing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project26
+549,408,CodeCrafters,Implementing CI/CD pipelines for automated deployment of software updates,Pending,http://www.example.com/project53
+550,423,ByteHub,Building a collaborative project management platform for teams,Rejected,http://www.example.com/project121
+551,197,CodeNest,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project17
+552,164,PixelCloud,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Approved,http://www.example.com/project74
+553,120,CodeCraft,Building a fault-tolerant distributed messaging system,Approved,http://www.example.com/project125
+554,367,AppSphere,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Pending,http://www.example.com/project62
+555,28,CodeGenius,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project135
+556,137,PixelNest,Implementing single sign-on authentication for seamless user access,Rejected,http://www.example.com/project120
+557,170,TechNest,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project154
+558,384,CodeBurst,Implementing CI/CD pipelines for automated deployment of software updates,Pending,http://www.example.com/project4
+559,484,DigitalDynamics,Developing a gamification platform for employee engagement and training,Pending,http://www.example.com/project24
+560,105,InnovatePulse,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project22
+562,325,DataSphere,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Approved,http://www.example.com/project86
+563,389,InnovateSavvy,Integrating AI-driven automation for optimizing IT operations,Rejected,http://www.example.com/project87
+565,312,ByteGenius,Implementing a decentralized finance (DeFi) derivatives protocol for risk management,Approved,http://www.example.com/project10
+566,377,CyberForge,Building a decentralized storage network for secure and censorship-resistant file storage,Pending,http://www.example.com/project159
+567,231,PixelWave,Implementing CI/CD pipelines for automated deployment of software updates,Rejected,http://www.example.com/project158
+570,135,CyberForge,Designing a disaster recovery plan for business continuity,Rejected,http://www.example.com/project14
+571,305,CodeCraft,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project114
+572,362,CodeBlaze,Designing a distributed file system for efficient data storage and retrieval,Pending,http://www.example.com/project138
+573,185,InnovateForge,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project56
+574,497,TechPulse,Building a decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project86
+575,140,PixelNest,Implementing containerization with Docker for application deployment,Pending,http://www.example.com/project151
+576,357,CyberForge,Creating a data visualization dashboard for business intelligence reporting,Pending,http://www.example.com/project150
+577,73,AppBlast,Designing a decentralized social media platform for censorship-resistant communication,Pending,http://www.example.com/project85
+578,423,InnovateMatrix,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project17
+579,427,PixelWave,Building a collaborative project management platform for teams,Approved,http://www.example.com/project147
+580,304,TechNest,Developing a cloud-native application with AWS Lambda and API Gateway,Rejected,http://www.example.com/project51
+581,217,DataWorks,Developing a remote monitoring and management system for IT infrastructure,Approved,http://www.example.com/project136
+582,434,CodeWave,Developing a hybrid cloud infrastructure for flexible resource management,Pending,http://www.example.com/project106
+583,365,CyberBlast,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project37
+584,428,PixelCloud,Designing a data governance framework for regulatory compliance,Rejected,http://www.example.com/project1
+585,149,DataGenius,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project44
+586,169,DataBlast,Designing a decentralized social media platform for censorship-resistant communication,Approved,http://www.example.com/project128
+587,384,DataSphere,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project104
+588,457,ByteBlaze,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project105
+589,300,AppMatrix,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project2
+590,460,CyberBlast,Building a fault-tolerant distributed messaging system,Pending,http://www.example.com/project122
+591,506,TechNest,Implementing end-to-end encryption for secure communication channels,Rejected,http://www.example.com/project41
+592,141,InnovateMatrix,Building a distributed consensus algorithm for decentralized applications,Approved,http://www.example.com/project32
+593,80,CodeGenius,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project140
+594,158,CodeCraft,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project91
+595,348,AppBlast,Optimizing database performance and scalability for high-volume data processing,Rejected,http://www.example.com/project100
+596,324,CyberMatrix,Designing a distributed file system for efficient data storage and retrieval,Rejected,http://www.example.com/project31
+597,299,CyberMatrix,Developing a chatbot using natural language processing for customer support,Pending,http://www.example.com/project37
+598,193,CodeWave,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project28
+599,258,InnovateMatrix,Designing a virtual reality application for immersive training simulations,Pending,http://www.example.com/project126
+601,35,CodePulse,Designing a decentralized social media platform for censorship-resistant communication,Approved,http://www.example.com/project38
+602,66,CodeBlaze,Designing a geospatial application for location-based services,Rejected,http://www.example.com/project128
+603,298,InnovateMatrix,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Approved,http://www.example.com/project163
+604,229,CodeNexus,Implementing a distributed ledger technology for supply chain transparency,Rejected,http://www.example.com/project76
+605,148,AppMatrix,Building a data lake for centralized storage and analysis of big data,Rejected,http://www.example.com/project41
+607,143,CyberDynamics,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project124
+608,12,TechNest,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project46
+609,279,AppSphere,Creating a mobile application with cross-platform compatibility using React Native,Rejected,http://www.example.com/project111
+610,502,CyberSphere,Developing an e-commerce platform with personalized user experiences,Rejected,http://www.example.com/project120
+611,230,TechForge,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project76
+612,416,CyberBlast,Developing a cybersecurity solution for threat detection and response,Pending,http://www.example.com/project110
+613,398,ByteCloud,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project103
+614,257,PixelCloud,Implementing data masking techniques for sensitive data protection,Pending,http://www.example.com/project23
+615,286,TechPulse,Building a decentralized reputation system for online communities,Rejected,http://www.example.com/project10
+616,459,DataBlast,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Rejected,http://www.example.com/project23
+617,290,ByteGenius,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project136
+618,229,InnovateWave,Developing a blockchain-based property ownership registry for real estate transactions,Pending,http://www.example.com/project100
+619,65,CodeBurst,Designing a blockchain-based supply chain management solution for traceability,Pending,http://www.example.com/project85
+620,460,AppSphere,Designing and implementing a cloud-based infrastructure for data storage and processing,Rejected,http://www.example.com/project138
+621,484,TechNest,Building a decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project137
+622,224,ByteHub,Designing a geospatial application for location-based services,Approved,http://www.example.com/project96
+623,124,TechSavvy,Building a continuous monitoring solution for infrastructure security,Approved,http://www.example.com/project106
+624,53,CyberBlast,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project101
+625,24,ByteCloud,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project132
+626,505,DataWorks,Optimizing database performance and scalability for high-volume data processing,Rejected,http://www.example.com/project6
+627,453,DataSphere,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project54
+628,137,CodePulse,Implementing containerization with Docker for application deployment,Approved,http://www.example.com/project114
+629,282,CodeCraft,Implementing a distributed ledger technology for supply chain transparency,Approved,http://www.example.com/project90
+630,29,PixelNest,Implementing containerization with Docker for application deployment,Pending,http://www.example.com/project73
+631,36,TechNest,Implementing a customer relationship management system for sales automation,Pending,http://www.example.com/project102
+632,155,CodeCraft,Designing a decentralized crowdfunding platform for tokenized fundraising,Pending,http://www.example.com/project91
+633,106,PixelWave,Implementing a decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project135
+635,215,CodeBlaze,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project76
+636,430,AppWorks,Building a recommendation engine based on user behavior analysis,Approved,http://www.example.com/project144
+638,47,TechForge,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project10
+639,263,TechForge,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Approved,http://www.example.com/project81
+640,252,PixelWave,Developing a decentralized autonomous organization (DAO) governance model,Rejected,http://www.example.com/project106
+641,102,DataMatrix,Integrating blockchain technology for secure transactions in a financial application,Approved,http://www.example.com/project62
+642,172,TechCraft,Building a blockchain-based digital identity verification system,Rejected,http://www.example.com/project105
+643,203,InnovateHub,Building a decentralized storage network for secure and censorship-resistant file storage,Rejected,http://www.example.com/project104
+645,457,DigitalDynamo,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project106
+646,134,CodeMasters,Developing a decentralized identity verification system for KYC compliance,Rejected,http://www.example.com/project111
+647,69,CodeSavvy,Developing a compliance management platform for regulatory requirements,Rejected,http://www.example.com/project53
+648,320,CyberDynamics,Implementing DevOps practices for continuous integration and delivery,Approved,http://www.example.com/project48
+649,100,InnovateWave,Developing a digital asset management system for multimedia content,Rejected,http://www.example.com/project159
+650,242,AppWorks,Building a fault-tolerant distributed messaging system,Rejected,http://www.example.com/project117
+651,459,CodeGenius,Integrating IoT sensors for monitoring and control of smart devices,Approved,http://www.example.com/project89
+652,350,DataMatrix,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project51
+653,306,CyberForge,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project165
+654,258,CyberSphere,Developing a cybersecurity solution for threat detection and response,Pending,http://www.example.com/project86
+655,83,InnovatePulse,Integrating AI-driven automation for optimizing IT operations,Rejected,http://www.example.com/project155
+657,452,AppSphere,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project152
+658,40,ByteGenius,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project96
+659,316,CodeBlaze,Building a content management system with headless CMS architecture,Pending,http://www.example.com/project43
+660,43,PixelCloud,Optimizing database performance and scalability for high-volume data processing,Approved,http://www.example.com/project78
+661,389,DataMatrix,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Pending,http://www.example.com/project62
+662,304,AppSphere,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project7
+663,120,CodeGenius,Developing a remote monitoring and management system for IT infrastructure,Rejected,http://www.example.com/project159
+664,375,DataSphere,Developing a blockchain-based property ownership registry for real estate transactions,Pending,http://www.example.com/project22
+665,286,CodeNexus,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project124
+666,174,CyberLink,Designing a geospatial application for location-based services,Rejected,http://www.example.com/project53
+667,287,ByteCloud,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project9
+668,216,CodeCraft,Designing a distributed file system for efficient data storage and retrieval,Rejected,http://www.example.com/project9
+669,423,InnovateForge,Building a collaborative project management platform for teams,Rejected,http://www.example.com/project37
+670,41,ByteCloud,Developing a peer-to-peer lending platform with blockchain technology,Approved,http://www.example.com/project49
+671,51,AppBlast,Integrating blockchain technology for secure transactions in a financial application,Rejected,http://www.example.com/project115
+672,441,CyberBlast,Creating a mobile application with cross-platform compatibility using React Native,Pending,http://www.example.com/project25
+673,271,CyberSphere,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project150
+674,246,InnovateWave,Building an anomaly detection system for cybersecurity threat detection,Pending,http://www.example.com/project76
+676,35,DataGenius,Developing a cloud-native application with AWS Lambda and API Gateway,Rejected,http://www.example.com/project66
+677,68,DataMatrix,Implementing differential privacy techniques for data anonymization,Approved,http://www.example.com/project53
+678,146,CodeGenius,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project152
+680,380,TechCraft,Building a content management system with headless CMS architecture,Approved,http://www.example.com/project84
+681,487,InnovateMatrix,Developing a smart contract auditing tool for blockchain security,Pending,http://www.example.com/project14
+682,496,AppWorks,Building a blockchain-based voting system for transparent elections,Approved,http://www.example.com/project162
+683,203,TechForge,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project101
+684,392,InnovateSavvy,Building a decentralized finance (DeFi) platform for peer-to-peer lending,Approved,http://www.example.com/project151
+685,412,DataMatrix,Building a blockchain-based digital identity verification system,Rejected,http://www.example.com/project85
+686,96,PixelCloud,Designing a geospatial application for location-based services,Approved,http://www.example.com/project70
+687,179,ByteHub,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project12
+688,197,CyberBlast,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project28
+689,455,ByteSphere,Developing a tokenization platform for asset digitization and trading,Pending,http://www.example.com/project115
+690,133,CodePulse,Implementing server-side rendering for optimized web performance,Rejected,http://www.example.com/project148
+691,209,ByteBlaze,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project153
+693,53,DigitalDynamics,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project127
+694,126,PixelWave,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project100
+695,356,DigitalDynamics,Implementing end-to-end encryption for secure communication channels,Rejected,http://www.example.com/project67
+696,439,PixelCloud,Building a knowledge graph for semantic search and recommendation,Approved,http://www.example.com/project66
+697,127,ByteHub,Implementing server-side rendering for optimized web performance,Approved,http://www.example.com/project69
+698,468,CodeBurst,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project56
+699,296,TechSavvy,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Pending,http://www.example.com/project165
+700,337,CyberSphere,Designing a serverless data processing pipeline for real-time analytics,Pending,http://www.example.com/project74
+701,114,PixelWave,Designing and deploying a container orchestration system with Kubernetes,Rejected,http://www.example.com/project81
+702,99,AppWorks,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project22
+703,164,TechMatrix,Designing a blockchain-based supply chain management solution for traceability,Approved,http://www.example.com/project29
+705,173,ByteHub,Designing a self-sovereign identity solution using blockchain technology,Rejected,http://www.example.com/project17
+706,156,CyberNauts,Building an automated incident response system for cybersecurity,Approved,http://www.example.com/project61
+707,313,AppWorks,Designing a blockchain-based supply chain management solution for traceability,Approved,http://www.example.com/project107
+708,308,AppMatrix,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project1
+709,147,CodeNest,Developing a sentiment analysis tool for social media monitoring,Rejected,http://www.example.com/project59
+710,264,InnovateWave,Creating a data visualization dashboard for business intelligence reporting,Rejected,http://www.example.com/project161
+711,18,DataWorks,Implementing differential privacy techniques for data anonymization,Pending,http://www.example.com/project135
+712,238,PixelCloud,Designing a federated authentication system for seamless user access,Rejected,http://www.example.com/project75
+713,430,CyberBlast,Developing a blockchain-based property ownership registry for real estate transactions,Approved,http://www.example.com/project11
+714,141,CyberForge,Designing a federated authentication system for seamless user access,Pending,http://www.example.com/project100
+715,259,PixelGenius,Designing a network intrusion detection system for cybersecurity,Approved,http://www.example.com/project152
+716,432,TechSavvy,Building a blockchain-based digital identity verification system,Pending,http://www.example.com/project23
+717,405,CyberDynamics,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project62
+718,352,CyberBlast,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Approved,http://www.example.com/project114
+719,148,CodeWave,Implementing single sign-on authentication for seamless user access,Pending,http://www.example.com/project15
+720,117,PixelCloud,Integrating biometric authentication for user identity verification,Rejected,http://www.example.com/project65
+721,398,ByteHub,Developing a chatbot using natural language processing for customer support,Rejected,http://www.example.com/project56
+722,138,TechNest,Optimizing database performance and scalability for high-volume data processing,Approved,http://www.example.com/project28
+723,122,DataMatrix,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Rejected,http://www.example.com/project112
+724,120,InnovateSavvy,Building a decentralized storage network for secure and censorship-resistant file storage,Approved,http://www.example.com/project67
+725,509,TechCraft,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project152
+726,80,DataNest,Developing a scalable web application using microservices architecture,Approved,http://www.example.com/project156
+727,136,InnovatePulse,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project90
+728,338,CodeWave,Designing a data classification system for information governance,Approved,http://www.example.com/project22
+729,96,AppSphere,Implementing differential privacy techniques for data anonymization,Pending,http://www.example.com/project158
+730,493,InnovateWave,Implementing a data governance framework for data quality management,Rejected,http://www.example.com/project28
+731,37,TechnoGenius,Designing a decentralized marketplace for digital assets trading,Approved,http://www.example.com/project81
+732,51,TechSavvy,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project77
+733,489,CodeSavvy,Building a scalable data warehouse for business intelligence analytics,Rejected,http://www.example.com/project90
+734,271,CodeBlaze,Developing a blockchain-based property ownership registry for real estate transactions,Rejected,http://www.example.com/project101
+735,156,CodePulse,Implementing a data governance framework for data quality management,Approved,http://www.example.com/project11
+736,148,ByteCloud,Building an automated incident response system for cybersecurity,Approved,http://www.example.com/project76
+737,45,ByteHub,Building a recommendation engine based on user behavior analysis,Pending,http://www.example.com/project50
+739,148,ByteBlaze,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project124
+740,120,TechSavvy,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project96
+741,127,CyberSphere,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Approved,http://www.example.com/project119
+742,53,TechNest,Implementing a customer relationship management system for sales automation,Rejected,http://www.example.com/project77
+743,369,DataSphere,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Approved,http://www.example.com/project153
+744,134,TechPulse,Developing an automated testing framework for software quality assurance,Rejected,http://www.example.com/project9
+746,231,ByteBlaze,Building a scalable data warehouse for business intelligence analytics,Pending,http://www.example.com/project18
+747,88,CodePulse,Developing a tokenization platform for asset digitization and trading,Rejected,http://www.example.com/project12
+748,100,ByteCloud,Developing a digital asset management system for multimedia content,Rejected,http://www.example.com/project46
+751,120,AppBlast,Implementing single sign-on authentication for seamless user access,Pending,http://www.example.com/project118
+752,92,InnovateMatrix,Designing and deploying a container orchestration system with Kubernetes,Rejected,http://www.example.com/project73
+754,137,DataMatrix,Building an automated incident response system for cybersecurity,Rejected,http://www.example.com/project36
+755,73,ByteGenius,Building a decentralized storage network for secure and censorship-resistant file storage,Approved,http://www.example.com/project144
+756,193,CodeNest,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project17
+758,36,CodeBlaze,Building a scalable backend system using serverless architecture,Approved,http://www.example.com/project143
+760,423,ByteSphere,Designing a self-sovereign identity solution using blockchain technology,Pending,http://www.example.com/project23
+761,333,InnovateWave,Developing a content recommendation engine for personalized experiences,Approved,http://www.example.com/project3
+762,60,DataWorks,Creating a mobile application with cross-platform compatibility using React Native,Rejected,http://www.example.com/project10
+763,265,CyberBlast,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Approved,http://www.example.com/project118
+764,209,PixelCloud,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Rejected,http://www.example.com/project146
+765,325,CodeCloud,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project91
+766,412,CyberNauts,Designing a blockchain-based supply chain management solution for traceability,Approved,http://www.example.com/project65
+767,226,PixelCloud,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project82
+768,460,CodeGenius,Designing a decentralized finance (DeFi) derivatives platform for risk management,Rejected,http://www.example.com/project118
+771,41,ByteHub,Building a blockchain-based digital identity management system for secure authentication,Pending,http://www.example.com/project3
+772,392,ByteHub,Building a decentralized reputation system for online communities,Rejected,http://www.example.com/project93
+773,140,CodeGenius,Designing a distributed file system for efficient data storage and retrieval,Rejected,http://www.example.com/project161
+774,147,ByteHub,Designing a geospatial application for location-based services,Approved,http://www.example.com/project156
+775,142,AppWorks,Implementing a customer relationship management system for sales automation,Rejected,http://www.example.com/project125
+776,16,TechForge,Building a blockchain-based voting system for transparent elections,Approved,http://www.example.com/project127
+778,69,ByteSphere,Designing a fault-tolerant network infrastructure for mission-critical applications,Rejected,http://www.example.com/project27
+779,179,CodeNest,Building a collaborative project management platform for teams,Approved,http://www.example.com/project48
+780,300,CodeNexus,Designing a virtual reality application for immersive training simulations,Pending,http://www.example.com/project138
+781,252,PixelCloud,Developing a decentralized identity verification system for KYC compliance,Rejected,http://www.example.com/project70
+782,138,CodeGenius,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project32
+783,306,PixelGenius,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project20
+785,502,ByteBlaze,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Rejected,http://www.example.com/project107
+786,362,InnovateMatrix,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Approved,http://www.example.com/project34
+787,313,CodeForge,Creating a data visualization dashboard for business intelligence reporting,Pending,http://www.example.com/project158
+788,59,AppSphere,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project90
+789,380,ByteHub,Implementing CI/CD pipelines for automated deployment of software updates,Rejected,http://www.example.com/project41
+791,68,CyberBlast,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project83
+792,379,AppBlast,Developing a cloud-native application with AWS Lambda and API Gateway,Rejected,http://www.example.com/project108
+793,486,PixelCloud,Creating a data visualization dashboard for business intelligence reporting,Rejected,http://www.example.com/project146
+794,331,DataSphere,Developing a decentralized governance platform for community-driven decision-making,Approved,http://www.example.com/project121
+795,18,TechCraft,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project68
+796,79,AppBlast,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project44
+797,480,CyberForge,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project24
+799,179,CodeBurst,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Rejected,http://www.example.com/project137
+800,279,CyberLink,Integrating IoT sensors for monitoring and control of smart devices,Approved,http://www.example.com/project130
+801,460,CyberMatrix,Building a fault-tolerant distributed messaging system,Rejected,http://www.example.com/project58
+802,101,DataBlast,Designing a data classification system for information governance,Pending,http://www.example.com/project136
+803,312,PixelCloud,Building a blockchain-based voting system for transparent elections,Rejected,http://www.example.com/project54
+804,80,TechForge,Developing a tokenization platform for asset digitization and trading,Pending,http://www.example.com/project14
+805,423,InnovateSavvy,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project9
+806,499,TechForge,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Rejected,http://www.example.com/project113
+807,170,CodeCrafters,Developing a decentralized prediction market platform for crowd-sourced forecasting,Rejected,http://www.example.com/project9
+808,69,ByteHub,Designing a federated authentication system for seamless user access,Approved,http://www.example.com/project17
+809,111,CodeWave,Designing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project85
+810,271,CodeCloud,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project123
+811,509,DataMatrix,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project141
+812,83,PixelGenius,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project112
+813,13,ByteSphere,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project73
+814,136,ByteSphere,Designing a data anonymization solution for privacy protection,Approved,http://www.example.com/project63
+815,439,CodeWave,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project56
+816,158,CodeCrafters,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project141
+817,454,InnovatePulse,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project100
+818,359,DataMatrix,Designing a decentralized finance (DeFi) derivatives platform for risk management,Approved,http://www.example.com/project9
+819,174,CyberSphere,Building a blockchain-based voting system for transparent elections,Pending,http://www.example.com/project163
+821,287,CodePulse,Creating a mobile application with cross-platform compatibility using React Native,Pending,http://www.example.com/project67
+822,102,ByteGenius,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project35
+823,242,AppSphere,Designing a federated learning system for collaborative machine learning,Pending,http://www.example.com/project8
+825,211,CodeCrafters,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project90
+826,377,CyberDynamics,Building a decentralized marketplace using blockchain smart contracts,Approved,http://www.example.com/project61
+827,464,InnovateWave,Creating a data visualization dashboard for business intelligence reporting,Approved,http://www.example.com/project79
+828,22,TechForge,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project155
+829,125,CyberMatrix,Designing a decentralized social media platform for censorship-resistant communication,Approved,http://www.example.com/project63
+830,173,TechSavvy,Implementing differential privacy techniques for data anonymization,Pending,http://www.example.com/project44
+831,164,CodeCraft,Integrating AI-driven automation for optimizing IT operations,Pending,http://www.example.com/project49
+832,158,CodeWave,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project126
+833,286,AppSphere,Developing a peer-to-peer lending platform with blockchain technology,Approved,http://www.example.com/project58
+834,158,PixelCloud,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Approved,http://www.example.com/project136
+835,80,AppBlast,Building a scalable data warehouse for business intelligence analytics,Approved,http://www.example.com/project137
+836,124,DataWorks,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project17
+837,282,CyberSphere,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project33
+838,16,AppDynamics,Building a decentralized reputation system for online communities,Rejected,http://www.example.com/project18
+839,434,AppNexus,Developing a decentralized governance platform for community-driven decision-making,Approved,http://www.example.com/project63
+840,500,ByteCloud,Developing a blockchain-based tokenization platform for asset-backed securities,Rejected,http://www.example.com/project85
+841,124,PixelCloud,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project2
+842,427,CodeSavvy,Designing a distributed ledger system for transparent record-keeping,Rejected,http://www.example.com/project59
+843,114,DataMatrix,Building a continuous monitoring solution for infrastructure security,Pending,http://www.example.com/project123
+844,424,ByteSphere,Building a fault-tolerant distributed messaging system,Pending,http://www.example.com/project88
+845,29,CyberForge,Building a recommendation engine based on user behavior analysis,Rejected,http://www.example.com/project50
+846,457,CodeBlaze,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project83
+847,168,DataMatrix,Implementing a decentralized finance (DeFi) lending protocol for peer-to-peer lending,Pending,http://www.example.com/project160
+848,468,InnovateSavvy,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project43
+849,375,PixelForge,Integrating AI-driven automation for optimizing IT operations,Pending,http://www.example.com/project45
+850,80,PixelNest,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Approved,http://www.example.com/project132
+851,122,ByteSphere,Designing and implementing a cloud-based infrastructure for data storage and processing,Rejected,http://www.example.com/project30
+852,133,TechPulse,Implementing single sign-on authentication for seamless user access,Approved,http://www.example.com/project70
+853,185,CyberBlast,Developing a decentralized autonomous organization (DAO) governance model,Rejected,http://www.example.com/project150
+854,304,CyberForge,Building a content management system with headless CMS architecture,Approved,http://www.example.com/project52
+855,40,PixelGenius,Building a blockchain-based digital identity verification system,Rejected,http://www.example.com/project79
+856,21,CyberMatrix,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project133
+857,28,ByteHub,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Rejected,http://www.example.com/project141
+858,105,ByteGenius,Developing a decentralized autonomous organization (DAO) governance model,Rejected,http://www.example.com/project35
+859,378,DataSphere,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project127
+860,102,CodeBurst,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project18
+861,65,CyberSphere,Building a blockchain-based intellectual property registry for digital rights management,Rejected,http://www.example.com/project109
+862,371,CyberSphere,Designing a federated authentication system for seamless user access,Pending,http://www.example.com/project17
+863,32,CodeBurst,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project1
+864,189,CyberBlast,Designing a distributed file system for efficient data storage and retrieval,Rejected,http://www.example.com/project135
+865,298,ByteBlaze,Designing a fault-tolerant network infrastructure for mission-critical applications,Rejected,http://www.example.com/project84
+866,432,DataSphere,Designing a federated authentication system for seamless user access,Rejected,http://www.example.com/project106
+867,155,TechNest,Implementing differential privacy techniques for data anonymization,Rejected,http://www.example.com/project129
+868,489,CodeCrafters,Building a blockchain-based digital identity management system for secure authentication,Pending,http://www.example.com/project63
+869,417,CodeGenius,Building a mobile wallet application for digital currency transactions,Rejected,http://www.example.com/project131
+870,172,ByteCloud,Developing a cybersecurity solution for threat detection and response,Approved,http://www.example.com/project63
+871,67,ByteHub,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project46
+872,506,CyberDynamics,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project147
+874,484,DataSphere,Creating a mobile application with cross-platform compatibility using React Native,Rejected,http://www.example.com/project119
+875,389,DataGenius,Developing a content recommendation engine for personalized experiences,Rejected,http://www.example.com/project19
+876,157,AppBlast,Building a mobile wallet application for digital currency transactions,Approved,http://www.example.com/project44
+877,263,PixelWave,Developing a blockchain-based tokenization platform for asset-backed securities,Pending,http://www.example.com/project77
+878,290,AppWorks,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project15
+879,247,TechNest,Building a decentralized messaging protocol for secure communication,Rejected,http://www.example.com/project95
+880,238,CyberForge,Developing a scalable web application using microservices architecture,Approved,http://www.example.com/project78
+881,257,ByteHub,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Approved,http://www.example.com/project157
+882,227,DataBlast,Building a machine learning model for predictive analytics in cybersecurity,Approved,http://www.example.com/project108
+883,279,PixelNest,Developing a sentiment analysis tool for social media monitoring,Approved,http://www.example.com/project83
+884,299,DigitalDynamics,Implementing containerization with Docker for application deployment,Rejected,http://www.example.com/project89
+885,398,AppSphere,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project40
+886,141,TechSavvy,Designing a disaster recovery plan for business continuity,Pending,http://www.example.com/project47
+887,164,CodeWave,Building a fault-tolerant distributed messaging system,Pending,http://www.example.com/project58
+888,66,CodeSavvy,Building a blockchain-based digital identity verification system,Pending,http://www.example.com/project75
+889,62,CyberSphere,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project91
+890,248,DataSphere,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Rejected,http://www.example.com/project76
+891,169,ByteGenius,Designing a decentralized content delivery network (CDN) for distributed content distribution,Approved,http://www.example.com/project17
+892,367,InnovateWave,Implementing multi-factor authentication for enhanced security measures,Pending,http://www.example.com/project131
+893,332,AppSphere,Developing a compliance management platform for regulatory requirements,Approved,http://www.example.com/project38
+894,441,InnovateSavvy,Building an automated incident response system for cybersecurity,Pending,http://www.example.com/project63
+895,222,CyberBlast,Designing a decentralized autonomous organization (DAO) for decentralized governance,Rejected,http://www.example.com/project132
+897,496,PixelCloud,Implementing end-to-end encryption for secure communication channels,Rejected,http://www.example.com/project102
+898,141,PixelGenius,Building a recommendation engine based on user behavior analysis,Rejected,http://www.example.com/project9
+899,35,CyberDynamics,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Approved,http://www.example.com/project92
+900,365,CodeCraft,Building a decentralized marketplace using blockchain smart contracts,Rejected,http://www.example.com/project5
+901,298,TechNest,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project139
+902,110,InnovateMatrix,Designing a geospatial application for location-based services,Pending,http://www.example.com/project99
+903,136,TechNest,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project138
+904,449,AppBlast,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Pending,http://www.example.com/project4
+905,214,CyberSphere,Designing a disaster recovery plan for business continuity,Pending,http://www.example.com/project107
+906,51,DataSphere,Creating a mobile application with cross-platform compatibility using React Native,Pending,http://www.example.com/project164
+907,399,DataBlast,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project98
+908,279,TechCraft,Implementing a customer relationship management system for sales automation,Pending,http://www.example.com/project74
+909,84,CodeCrafters,Developing a cybersecurity solution for threat detection and response,Pending,http://www.example.com/project140
+910,26,PixelCloud,Designing a decentralized marketplace for digital assets trading,Pending,http://www.example.com/project41
+911,221,AppSphere,Developing an automated testing framework for software quality assurance,Pending,http://www.example.com/project153
+912,38,CyberSphere,Implementing a decentralized finance (DeFi) lending protocol for peer-to-peer lending,Pending,http://www.example.com/project100
+913,484,AppWorks,Designing a geospatial application for location-based services,Pending,http://www.example.com/project131
+914,213,CodePulse,Developing an e-commerce platform with personalized user experiences,Pending,http://www.example.com/project107
+915,349,CodeBlaze,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Pending,http://www.example.com/project23
+916,67,AppSphere,Designing a self-sovereign identity solution using blockchain technology,Pending,http://www.example.com/project128
+917,285,AppSphere,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project148
+918,165,InnovateMatrix,Developing a hybrid cloud infrastructure for flexible resource management,Pending,http://www.example.com/project60
+920,229,TechPulse,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project95
+921,252,CodeNexus,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project141
+922,442,ByteBlaze,Developing a privacy-preserving data sharing platform using homomorphic encryption,Pending,http://www.example.com/project118
+923,373,ByteHub,Optimizing database performance and scalability for high-volume data processing,Pending,http://www.example.com/project59
+924,291,TechPulse,Designing a decentralized content delivery network (CDN) for distributed content distribution,Pending,http://www.example.com/project106
+925,81,TechForge,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project158
+926,199,CodeGenius,Building a collaborative project management platform for teams,Pending,http://www.example.com/project85
+927,383,TechForge,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Pending,http://www.example.com/project130
+928,184,DataBlast,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project100
+929,263,CodeWave,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project22
+930,108,PixelNest,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project109
+931,105,CodeCraft,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project113
+932,390,CyberForge,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project81
+934,473,PixelCloud,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project64
+935,337,DataSphere,Developing a scalable web application using microservices architecture,Pending,http://www.example.com/project42
+936,119,CodePulse,Developing a supply chain management platform with blockchain technology,Pending,http://www.example.com/project108
+937,483,CyberForge,Building a secure messaging platform with end-to-end encryption,Pending,http://www.example.com/project89
+938,55,CodeWave,Designing and deploying a high-availability architecture for web applications,Pending,http://www.example.com/project68
+939,159,TechCraft,Designing a self-sovereign identity solution using blockchain technology,Pending,http://www.example.com/project75
+940,155,InnovateWave,Developing a decentralized identity verification system for KYC compliance,Pending,http://www.example.com/project60
+941,318,DataWorks,Developing a cross-platform desktop application using Electron,Pending,http://www.example.com/project46
+942,209,CodeSavvy,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project70
+943,450,CodeBurst,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project42
+944,241,TechnoSphere,Designing a disaster recovery plan for business continuity,Pending,http://www.example.com/project155
+945,347,AppWorks,Designing a distributed file system for efficient data storage and retrieval,Pending,http://www.example.com/project144
+946,405,CodeGenius,Designing a decentralized content delivery network (CDN) for distributed content distribution,Pending,http://www.example.com/project104
+947,138,AppSphere,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project24
+948,284,PixelNest,Building a fault-tolerant distributed messaging system,Pending,http://www.example.com/project128
+949,460,CodeBlaze,Creating a knowledge base system for internal documentation and collaboration,Pending,http://www.example.com/project111
+950,153,CodeSavvy,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project53
+951,351,CodeCrafters,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project134
+952,224,ByteSphere,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project106
+953,447,DataGenius,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project31
+954,381,CyberBlast,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Pending,http://www.example.com/project75
+955,330,ByteBlaze,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project124
+956,459,InnovateSavvy,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project55
+957,392,CodeBurst,Building a decentralized storage network for secure and censorship-resistant file storage,Pending,http://www.example.com/project23
+958,272,CodeGenius,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project83
+959,100,PixelNest,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project63
+961,282,CyberBlast,Designing a data anonymization solution for privacy protection,Pending,http://www.example.com/project47
+962,402,DataMatrix,Creating a mobile application with cross-platform compatibility using React Native,Pending,http://www.example.com/project149
+963,288,CodeCrafters,Building a blockchain-based intellectual property registry for digital rights management,Pending,http://www.example.com/project98
+964,395,CodeCraft,Designing a serverless data processing pipeline for real-time analytics,Pending,http://www.example.com/project89
+965,258,InnovatePulse,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project96
+966,319,PixelGenius,Designing a data classification system for information governance,Pending,http://www.example.com/project74
+967,244,InnovateSavvy,Building a secure messaging platform with end-to-end encryption,Pending,http://www.example.com/project95
+968,274,CodeBurst,Designing a decentralized marketplace for digital assets trading,Pending,http://www.example.com/project157
+969,33,AppMatrix,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project30
+970,46,PixelCloud,Developing a tokenization platform for asset digitization and trading,Pending,http://www.example.com/project106
+971,345,ByteBlaze,Building a data lake for centralized storage and analysis of big data,Pending,http://www.example.com/project59
+972,226,ByteGenius,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project29
+973,453,CodeNexus,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project145
+974,250,CodeSavvy,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project68
+975,336,CyberMatrix,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project85
+976,289,CyberSphere,Implementing single sign-on authentication for seamless user access,Pending,http://www.example.com/project91
+977,440,ByteBlaze,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project153
+978,396,CyberForge,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project60
+979,397,CodeWave,Developing a scalable web application using microservices architecture,Pending,http://www.example.com/project8
+980,377,AppSphere,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project50
+981,271,PixelCloud,Designing a decentralized marketplace for digital assets trading,Pending,http://www.example.com/project59
+982,467,CodeBlaze,Developing a scalable web application using microservices architecture,Pending,http://www.example.com/project111
+983,239,TechTonic,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project106
+984,132,TechForge,Implementing end-to-end encryption for secure communication channels,Pending,http://www.example.com/project140
+985,276,CodeWave,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project10
+986,378,PixelNest,Designing a self-sovereign identity solution using blockchain technology,Pending,http://www.example.com/project13
+987,501,AppMatrix,Designing a geospatial application for location-based services,Pending,http://www.example.com/project157
+988,16,PixelNest,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project147
+989,217,ByteBlaze,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project80
+990,227,TechTonic,Developing a peer-to-peer lending platform with blockchain technology,Pending,http://www.example.com/project139
+991,53,CodeCraft,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project115
+992,27,InnovateWave,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Pending,http://www.example.com/project156
+993,77,CodeBurst,Implementing a decentralized exchange (DEX) for cryptocurrency trading,Pending,http://www.example.com/project165
+994,154,CyberBlast,Building a knowledge graph for semantic search and recommendation,Pending,http://www.example.com/project100
+995,499,CodeCraft,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project67
+996,198,InnovatePulse,Developing a blockchain-based property ownership registry for real estate transactions,Pending,http://www.example.com/project134
+997,182,CodeCrafters,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project88
+998,275,InnovateWave,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project165
+999,361,CodePulse,Developing a peer-to-peer lending platform with blockchain technology,Pending,http://www.example.com/project37
+1000,59,PixelNest,Integrating IoT sensors for monitoring and control of smart devices,Pending,http://www.example.com/project144
+1001,245,InnovateForge,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project139
+1002,468,PixelCloud,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project55
+1003,283,PixelCloud,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project122
+1004,366,CodePulse,Building a collaborative project management platform for teams,Pending,http://www.example.com/project55
+1005,249,PixelWave,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project35
+1006,311,ByteBlaze,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project153
+1007,78,InnovateForge,Designing a distributed ledger system for transparent record-keeping,Pending,http://www.example.com/project114
+1008,43,ByteBoost,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project9
+1009,205,CodeCrafters,Building a secure messaging platform with end-to-end encryption,Pending,http://www.example.com/project117
+1010,104,InnovateSavvy,Developing a gamification platform for employee engagement and training,Pending,http://www.example.com/project140
+1011,36,PixelCloud,Building a blockchain-based digital identity management system for secure authentication,Pending,http://www.example.com/project87
+1012,122,TechSavvy,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project75
+1013,295,PixelCloud,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project27
+1014,308,CodeGenius,Optimizing database performance and scalability for high-volume data processing,Pending,http://www.example.com/project69
+1015,428,AppWorks,Implementing server-side rendering for optimized web performance,Pending,http://www.example.com/project49
+1016,254,ByteCloud,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project28
+1017,415,CodeBurst,Implementing multi-factor authentication for enhanced security measures,Pending,http://www.example.com/project107
+1018,65,TechNest,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project40
+1019,83,DataMatrix,Building a data lake for centralized storage and analysis of big data,Pending,http://www.example.com/project84
+1020,189,PixelGenius,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project73
+1021,87,DataGenius,Building a decentralized reputation system for online communities,Pending,http://www.example.com/project28
+1022,235,PixelCloud,Implementing a blockchain-based supply chain traceability solution,Pending,http://www.example.com/project10
+1023,257,CodeGenius,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project60
+1024,112,AppWorks,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project93
+1025,109,AppMatrix,Developing a cybersecurity solution for threat detection and response,Pending,http://www.example.com/project128
+1026,281,CodeSavvy,Implementing end-to-end encryption for secure communication channels,Pending,http://www.example.com/project155
+1027,495,CyberBlast,Designing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project143
+1028,111,ByteGenius,Designing and implementing a cloud-based infrastructure for data storage and processing,Pending,http://www.example.com/project74
+1029,510,CyberSavvy,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project14
+1030,259,PixelCloud,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project155
+1031,34,AppBlast,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project149
+1032,126,PixelCloud,Implementing data masking techniques for sensitive data protection,Pending,http://www.example.com/project93
+1033,41,CyberBlast,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Pending,http://www.example.com/project84
+1034,334,CodePulse,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Pending,http://www.example.com/project145
+1035,161,InnovateForge,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project8
+1036,352,PixelNest,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project75
+1037,418,CodeBlaze,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project63
+1038,372,AppBlast,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project9
+1039,422,InnovateWave,Implementing data masking techniques for sensitive data protection,Pending,http://www.example.com/project54
+1040,173,CodeBlaze,Designing a decentralized storage network for distributed file storage,Pending,http://www.example.com/project56
+1041,243,InnovateMatrix,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project130
+1042,142,InnovateMatrix,Designing a decentralized crowdfunding platform for tokenized fundraising,Pending,http://www.example.com/project79
+1043,277,CodeSavvy,Designing a decentralized social media platform for censorship-resistant communication,Pending,http://www.example.com/project161
+1044,15,InnovateForge,Developing a remote monitoring and management system for IT infrastructure,Pending,http://www.example.com/project146
+1045,232,InnovateMatrix,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project126
+1046,433,TechNest,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project33
+1047,379,TechNest,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project103
+1048,262,TechNest,Creating a knowledge base system for internal documentation and collaboration,Pending,http://www.example.com/project44
+1049,253,InnovateForge,Developing a cross-platform desktop application using Electron,Pending,http://www.example.com/project122
+1050,480,DataBlast,Designing a data governance framework for regulatory compliance,Pending,http://www.example.com/project54
+1051,79,AppSphere,Building an anomaly detection system for cybersecurity threat detection,Pending,http://www.example.com/project160
+1052,504,CodeCraft,Developing a tokenization platform for asset digitization and trading,Pending,http://www.example.com/project105
+1053,68,ByteHub,Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project54
+1054,178,CodeBlaze,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project74
+1055,58,DataWorks,Designing a federated authentication system for seamless user access,Pending,http://www.example.com/project131
+1056,187,CodeCraft,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project68
+1057,18,ByteBlast,Building a machine learning model for predictive analytics in cybersecurity,Pending,http://www.example.com/project97
+1058,188,AppBlast,Developing a remote monitoring and management system for IT infrastructure,Pending,http://www.example.com/project22
+1059,478,CyberDynamics,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project7
+1060,423,DataSphere,Implementing a decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project77
+1061,127,CyberBlast,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project80
+1062,436,ByteGenius,Integrating IoT sensors for monitoring and control of smart devices,Pending,http://www.example.com/project162
+1063,387,CodeSavvy,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Pending,http://www.example.com/project115
+1064,162,AppNexus,Designing a data classification system for information governance,Pending,http://www.example.com/project161
+1065,240,ByteBlast,Implementing a decentralized finance (DeFi) derivatives protocol for risk management,Pending,http://www.example.com/project100
+1066,299,AppSphere,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project151
+1067,310,DataSphere,Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project161
+1068,195,ByteBlaze,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project27
+1069,171,TechCraft,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project126
+1070,507,TechCraft,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project153
+1071,411,CodeGenius,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project143
+1072,488,InnovateForge,Developing a sentiment analysis tool for social media monitoring,Pending,http://www.example.com/project99
+1073,150,PixelPulse,Designing a data anonymization solution for privacy protection,Pending,http://www.example.com/project140
+1074,39,CodeSavvy,Developing a sentiment analysis tool for social media monitoring,Pending,http://www.example.com/project136
+1075,151,PixelCloud,Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project83
+1076,220,CodeCloud,Building a machine learning model for predictive analytics in cybersecurity,Pending,http://www.example.com/project81
+1077,225,TechForge,Building an AI-powered virtual assistant for automated customer support,Pending,http://www.example.com/project130
+1078,191,ByteSphere,Implementing a data governance framework for data quality management,Pending,http://www.example.com/project99
+1079,238,DataGenius,Designing a decentralized social media platform for censorship-resistant communication,Pending,http://www.example.com/project142
+1080,169,CodeBlaze,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project82
+1081,343,InnovateSavvy,Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets,Pending,http://www.example.com/project105
+1082,172,AppBlast,Implementing a decentralized finance (DeFi) derivatives platform for risk management,Pending,http://www.example.com/project23
+1083,260,AppMatrix,Designing a geospatial application for location-based services,Pending,http://www.example.com/project26
+1084,80,CodeBlaze,Designing a blockchain-based supply chain management solution for traceability,Pending,http://www.example.com/project124
+1085,236,AppWorks,Building a recommendation engine based on user behavior analysis,Pending,http://www.example.com/project80
+1087,212,PixelWave,Implementing end-to-end encryption for secure communication channels,Pending,http://www.example.com/project131
+1088,139,CodeSavvy,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project8
+1089,398,CodeCrafters,Creating a knowledge base system for internal documentation and collaboration,Pending,http://www.example.com/project6
+1090,329,AppWorks,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project44
+1091,487,PixelNest,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project113
+1092,194,PixelCloud,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project149
+1093,335,ByteSphere,Developing a sentiment analysis tool for social media monitoring,Pending,http://www.example.com/project38
+1094,37,ByteHub,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project72
+1095,206,InnovatePulse,Integrating biometric authentication for user identity verification,Pending,http://www.example.com/project134
+1096,370,CyberMatrix,Designing a decentralized crowdfunding platform for tokenized fundraising,Pending,http://www.example.com/project154
+1097,304,CodeGenius,Developing a digital asset management system for multimedia content,Pending,http://www.example.com/project67
+1098,168,CyberMatrix,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project103
+1099,234,InnovateSavvy,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project146
+1100,177,TechPulse,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project63
+1101,192,AppWorks,Designing a federated learning system for collaborative machine learning,Pending,http://www.example.com/project1
+1102,313,CodeBurst,Building an AI-powered virtual assistant for automated customer support,Pending,http://www.example.com/project74
+1103,62,CyberMatrix,Implementing feature toggles for controlled release of software features,Pending,http://www.example.com/project30
+1105,403,PixelCloud,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project131
+1106,494,DataMatrix,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project120
+1107,32,PixelNest,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project31
+1108,23,InnovateMatrix,Building a secure messaging platform with end-to-end encryption,Pending,http://www.example.com/project61
+1109,181,ByteHub,Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi),Pending,http://www.example.com/project1
+1110,482,CyberBlast,Implementing a decentralized governance framework for decentralized autonomous organizations (DAOs),Pending,http://www.example.com/project2
+1111,320,CodeGenius,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project8
+1112,438,AppDynamics,Building a scalable backend system using serverless architecture,Pending,http://www.example.com/project99
+1113,166,CyberForge,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project92
+1114,48,ByteGenius,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project159
+1115,486,CodeSavvy,Building a mobile wallet application for digital currency transactions,Pending,http://www.example.com/project90
+1116,375,CodePulse,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project131
+1117,246,PixelCloud,Developing a cybersecurity solution for threat detection and response,Pending,http://www.example.com/project8
+1118,327,ByteGenius,Building a distributed consensus algorithm for decentralized applications,Pending,http://www.example.com/project151
+1119,202,PixelCloud,Designing a decentralized storage network for distributed file storage,Pending,http://www.example.com/project148
+1120,444,CyberSphere,Building a fault-tolerant distributed messaging system,Pending,http://www.example.com/project43
+1121,359,AppSphere,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project65
+1122,13,CodeCraft,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project61
+1123,92,CodeCrafters,Designing a distributed file system for efficient data storage and retrieval,Pending,http://www.example.com/project105
+1124,269,CodeCraft,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project42
+1125,56,CodeNest,Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project149
+1127,344,TechNest,Designing a data anonymization solution for privacy protection,Pending,http://www.example.com/project80
+1128,410,InnovatePulse,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project73
+1129,124,CodeBurst,Designing a decentralized content delivery network (CDN) for distributed content distribution,Pending,http://www.example.com/project163
+1130,128,DataWorks,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project56
+1131,203,TechNest,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project118
+1132,22,TechSavvy,Building a decentralized marketplace using blockchain smart contracts,Pending,http://www.example.com/project28
+1133,376,PixelGenius,Implementing a zero-trust security model for network security,Pending,http://www.example.com/project56
+1134,342,PixelGenius,Developing a cloud-native application with AWS Lambda and API Gateway,Pending,http://www.example.com/project30
+1135,197,CyberSphere,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project146
+1136,290,CyberBlast,Designing a decentralized crowdfunding platform for tokenized fundraising,Pending,http://www.example.com/project94
+1137,95,CodeBurst,Developing an automated testing framework for software quality assurance,Pending,http://www.example.com/project71
+1138,121,TechNest,Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading,Pending,http://www.example.com/project92
+1139,64,TechCraft,Implementing a blockchain-based supply chain traceability solution,Pending,http://www.example.com/project51
+1140,157,PixelCloud,Implementing feature toggles for controlled release of software features,Pending,http://www.example.com/project81
+1141,476,PixelCloud,Designing a decentralized exchange (DEX) for token swaps and liquidity pooling,Pending,http://www.example.com/project27
+1142,176,CodeBurst,Implementing DevOps practices for continuous integration and delivery,Pending,http://www.example.com/project146
+1143,384,CodeNexus,Developing an e-commerce platform with personalized user experiences,Pending,http://www.example.com/project17
+1144,273,ByteSphere,Developing a tokenization platform for asset digitization and trading,Pending,http://www.example.com/project129
+1145,44,TechSavvy,Building a scalable data warehouse for business intelligence analytics,Pending,http://www.example.com/project60
+1146,346,CodeSavvy,Designing a fault-tolerant network infrastructure for mission-critical applications,Pending,http://www.example.com/project156
+1147,237,CodeNest,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project10
+1148,485,CodeNest,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project24
+1149,174,DataSphere,Implementing real-time data streaming for monitoring system performance,Pending,http://www.example.com/project123
+1150,407,AppBlast,Developing a decentralized governance platform for community-driven decision-making,Pending,http://www.example.com/project129
+1151,300,CyberBlast,Building a decentralized finance (DeFi) platform for peer-to-peer lending,Pending,http://www.example.com/project164
+1152,357,TechPulse,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project42
+1153,312,PixelNest,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project153
+1154,93,TechnoGenius,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project78
+1155,141,InnovateWave,Developing a cloud-native application with AWS Lambda and API Gateway,Pending,http://www.example.com/project60
+1156,421,TechNest,Implementing a distributed ledger technology for supply chain transparency,Pending,http://www.example.com/project77
+1157,457,ByteHub,Designing a decentralized marketplace for digital assets trading,Pending,http://www.example.com/project89
+1158,322,ByteGenius,Creating a knowledge base system for internal documentation and collaboration,Pending,http://www.example.com/project88
+1160,149,PixelCloud,Designing a blockchain-based healthcare data exchange platform for interoperability,Pending,http://www.example.com/project53
+1161,82,DataSphere,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project29
+1162,267,CodeBurst,Building a data lake for centralized storage and analysis of big data,Pending,http://www.example.com/project164
+1163,286,PixelGenius,Building a blockchain-based digital identity verification system,Pending,http://www.example.com/project76
+1164,210,CodeCrafters,Developing an e-commerce platform with personalized user experiences,Pending,http://www.example.com/project137
+1165,61,CodeNexus,Designing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project45
+1166,208,PixelGenius,Developing a content recommendation engine for personalized experiences,Pending,http://www.example.com/project105
+1167,353,ByteSphere,Implementing multi-factor authentication for enhanced security measures,Pending,http://www.example.com/project99
+1168,72,InnovateForge,Implementing a decentralized marketplace for non-fungible tokens (NFTs),Pending,http://www.example.com/project105
+1169,389,CodeWave,Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project165
+1170,230,CyberDynamics,Designing a distributed file system for efficient data storage and retrieval,Pending,http://www.example.com/project149
+1171,134,InnovateWave,Implementing a decentralized identity management solution using decentralized identifiers (DIDs),Pending,http://www.example.com/project135
+1172,180,TechCraft,Building a recommendation engine based on user behavior analysis,Pending,http://www.example.com/project15
+1173,30,TechForge,Developing a blockchain-based tokenization platform for asset-backed securities,Pending,http://www.example.com/project8
+1174,306,ByteHub,Building a blockchain-based digital identity verification system,Pending,http://www.example.com/project151
+1175,99,PixelWave,Designing a geospatial application for location-based services,Pending,http://www.example.com/project75
+1176,414,PixelNest,Designing a decentralized crowdfunding platform for tokenized fundraising,Pending,http://www.example.com/project109
+1177,183,CodeGenius,Developing a blockchain-based tokenization platform for asset-backed securities,Pending,http://www.example.com/project40
+1179,416,InnovateCloud,Designing a decentralized storage network for distributed file storage,Pending,http://www.example.com/project158
+1180,354,AppSphere,Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending,Pending,http://www.example.com/project136
+1181,35,TechMatrix,Implementing load balancing and auto-scaling for cloud applications,Pending,http://www.example.com/project86
+1182,54,TechnoSphere,Designing a decentralized exchange (DEX) aggregator for optimized token trading,Pending,http://www.example.com/project88
+1183,431,DataMatrix,Implementing multi-factor authentication for enhanced security measures,Pending,http://www.example.com/project1
+1184,152,InnovateMatrix,Implementing a hybrid identity management solution for user access control,Pending,http://www.example.com/project112
+1185,114,InnovateSavvy,Developing a decentralized autonomous organization (DAO) governance model,Pending,http://www.example.com/project114
+1186,193,CodeCraft,Building a decentralized storage network for secure and censorship-resistant file storage,Pending,http://www.example.com/project159
+1187,215,DataMatrix,Designing a virtual reality application for immersive training simulations,Pending,http://www.example.com/project153
+1188,251,AppWorks,Building an AI-powered virtual assistant for automated customer support,Pending,http://www.example.com/project150
+1189,292,DataGenius,Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi),Pending,http://www.example.com/project158
+1190,118,DataSphere,Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision,Pending,http://www.example.com/project73
+1191,458,PixelWave,Building a blockchain-based digital identity verification system,Pending,http://www.example.com/project78
+1192,21,PixelNest,Implementing a decentralized autonomous organization (DAO) for decentralized governance,Pending,http://www.example.com/project30
+1193,255,DataSphere,Implementing a decentralized exchange (DEX) aggregator for optimized token swaps,Pending,http://www.example.com/project62
+1194,207,CodeCrafters,Designing a federated learning system for collaborative machine learning,Pending,http://www.example.com/project104
+1195,463,TechForge,Developing a blockchain-based property ownership registry for real estate transactions,Pending,http://www.example.com/project62
+1196,358,DataWorks,Implementing a data loss prevention solution for sensitive data protection,Pending,http://www.example.com/project54
+1197,325,CyberSphere,Optimizing database performance and scalability for high-volume data processing,Pending,http://www.example.com/project131
+1198,302,CodeBlaze,Building an automated incident response system for cybersecurity,Pending,http://www.example.com/project88
+1199,386,DataGenius,Integrating blockchain technology for secure transactions in a financial application,Pending,http://www.example.com/project42
+1200,85,CodePulse,Developing a cloud-native application with AWS Lambda and API Gateway,Pending,http://www.example.com/project39

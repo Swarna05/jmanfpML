@@ -1,0 +1,51 @@
+SKILL_ID,SKILL_NAME
+1,React.js
+2,Java
+3,Python
+4,C++
+5,JavaScript
+6,HTML/CSS
+7,SQL
+8,Node.js
+9,Angular
+10,TypeScript
+11,Ruby on Rails
+12,PHP
+13,Swift
+14,Kotlin
+15,Go
+16,Rust
+17,Scala
+18,C#
+19,ASP.NET
+20,Django
+21,Flask
+22,Spring Framework
+23,Hibernate
+24,Express.js
+25,Vue.js
+26,GraphQL
+27,Docker
+28,Kubernetes
+29,Jenkins
+30,Git
+31,Agile Methodologies
+32,Scrum
+33,Kanban
+34,Continuous Integration/Continuous Deployment (CI/CD)
+35,Test-Driven Development (TDD)
+36,Behavior-Driven Development (BDD)
+37,Microservices Architecture
+38,RESTful APIs
+39,SOAP
+40,GraphQL
+41,WebSockets
+42,Machine Learning
+43,Artificial Intelligence
+44,Data Science
+45,Big Data
+46,Natural Language Processing (NLP)
+47,Computer Vision
+48,Robotics
+49,Embedded Systems
+50,Internet of Things

@@ -1,0 +1,741 @@
+USER_ID,FULL_NAME,text
+169,Maximo McCauley,CyberSphere Building a recommendation engine based on user behavior analysis   Kanban Advance
+169,Maximo McCauley,DataBlast Designing a decentralized social media platform for censorship-resistant communication   Kanban Advance
+169,Maximo McCauley,ByteGenius Designing a decentralized content delivery network (CDN) for distributed content distribution   Kanban Advance
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Microsoft Certified: Azure Fundamentals Artificial Intelligence Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Google Professional Cloud Network Engineer Artificial Intelligence Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional Artificial Intelligence Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Certified Information Security Manager (CISM) Artificial Intelligence Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Microsoft Certified: Azure Fundamentals Artificial Intelligence Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Google Professional Cloud Network Engineer Artificial Intelligence Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity AWS Certified DevOps Engineer - Professional Artificial Intelligence Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Certified Information Security Manager (CISM) Artificial Intelligence Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Microsoft Certified: Azure Fundamentals Artificial Intelligence Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Google Professional Cloud Network Engineer Artificial Intelligence Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading AWS Certified DevOps Engineer - Professional Artificial Intelligence Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Security Manager (CISM) Artificial Intelligence Beginner
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Entry Networking Technician (CCENT) Java Intermediate
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance AWS Certified Solutions Architect - Professional Java Intermediate
+362,Nigel Lewing,InnovateMatrix Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Systems Auditor (CISA) TypeScript Beginner
+149,Christiane Sharer,TechNest Developing a chatbot using natural language processing for customer support Microsoft Certified: Azure Administrator Associate Vue.js Beginner
+149,Christiane Sharer,AppNexus Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate Vue.js Beginner
+149,Christiane Sharer,CyberBlast Designing a decentralized storage network for distributed file storage Microsoft Certified: Azure Administrator Associate Vue.js Beginner
+211,Tedra Woolmington,AppSphere Developing a decentralized prediction market platform for crowd-sourced forecasting   GraphQL Beginner
+398,Lettie Load,InnovateMatrix Building a content management system with headless CMS architecture Project Management Professional (PMP) Scrum Beginner
+398,Lettie Load,PixelForge Implementing a decentralized finance (DeFi) derivatives platform for risk management Project Management Professional (PMP) Scrum Beginner
+398,Lettie Load,CodeSavvy Developing a cybersecurity solution for threat detection and response Project Management Professional (PMP) Scrum Beginner
+282,Marty Nortcliffe,CodeCraft Implementing a distributed ledger technology for supply chain transparency   Jenkins Advance
+225,Gwenora Arne,CyberMatrix Implementing a decentralized identity management solution using decentralized identifiers (DIDs)   Express.js Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Google Professional Machine Learning Engineer Rust Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Google Professional Machine Learning Engineer Rust Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Machine Learning Engineer Rust Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Google Professional Machine Learning Engineer Rust Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Google Professional Machine Learning Engineer Rust Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Rust Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Rust Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Rust Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Google Professional Machine Learning Engineer Rust Beginner
+245,Dave Ritelli,CodeGenius Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets   C++ Advance
+245,Dave Ritelli,PixelCloud Implementing a hybrid identity management solution for user access control   C++ Advance
+424,Loydie Wych,    Robotics Beginner
+484,Cathleen Beamson,TechNest Building a decentralized exchange (DEX) for tokenized asset trading Certified Information Security Manager (CISM) Swift Advance
+215,Hatty Veryard,CodeSavvy Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi)   SQL Intermediate
+215,Hatty Veryard,DataWorks Creating a knowledge base system for internal documentation and collaboration   SQL Intermediate
+182,Archibold Pickover,    Django Intermediate
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology Certified Ethical Hacker (CEH) Python Intermediate
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology AWS Certified Developer - Associate Python Intermediate
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management Certified Ethical Hacker (CEH) Python Intermediate
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management AWS Certified Developer - Associate Python Intermediate
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections Certified Ethical Hacker (CEH) Python Intermediate
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections AWS Certified Developer - Associate Python Intermediate
+32,Lora Sweynson,  Cisco Certified Design Professional (CCDP) Internet of Things Advance
+32,Lora Sweynson,  Cisco Certified Entry Networking Technician (CCENT) Internet of Things Advance
+92,Nikolaus Mariel,CodeNexus Designing a decentralized finance (DeFi) derivatives platform for risk management   PHP Beginner
+355,Robbie Stooke,  Google Professional Machine Learning Engineer Kotlin Beginner
+37,Patricio Labbey,AppSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Computer Vision Intermediate
+37,Patricio Labbey,CodeBurst Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi)   Computer Vision Intermediate
+37,Patricio Labbey,TechnoGenius Designing a decentralized marketplace for digital assets trading   Computer Vision Intermediate
+66,Barclay Lere,  VMware Certified Associate - Digital Business Transformation (VCA-DBT) Test-Driven Development (TDD) Intermediate
+66,Barclay Lere,  Google Associate Cloud Engineer Test-Driven Development (TDD) Intermediate
+29,Lilllie Allot,ByteBlaze Building a machine learning model for predictive analytics in cybersecurity   HTML/CSS Intermediate
+455,Ches Mussalli,  Cisco Certified DevNet Professional Embedded Systems Advance
+136,Ardyce Frogley,TechPulse Implementing a decentralized finance (DeFi) derivatives platform for risk management Google Professional Cloud Network Engineer Kubernetes Intermediate
+136,Ardyce Frogley,ByteSphere Designing a data anonymization solution for privacy protection Google Professional Cloud Network Engineer Kubernetes Intermediate
+392,Marylinda Cazereau,AppWorks Designing a distributed ledger system for transparent record-keeping   Angular Intermediate
+392,Marylinda Cazereau,InnovateSavvy Building a decentralized finance (DeFi) platform for peer-to-peer lending   Angular Intermediate
+296,Eamon Whooley,CyberBlast Designing a decentralized storage network for distributed file storage AWS Certified DevOps Engineer - Professional Git Advance
+290,Jayme Adolf,ByteGenius Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Ruby on Rails Beginner
+436,Darleen Scorrer,ByteCloud Building a data lake for centralized storage and analysis of big data Google Professional Cloud Security Engineer Django Beginner
+417,Braden Gaucher,CodeNest Developing a decentralized identity verification system for KYC compliance   Internet of Things Advance
+464,Goldi Willarton,InnovateWave Creating a data visualization dashboard for business intelligence reporting   C# Beginner
+486,Waverly Hylden,PixelNest Developing a scalable web application using microservices architecture VMware Certified Professional - Network Virtualization (VCP-NV) Vue.js Beginner
+486,Waverly Hylden,CodeNest Developing a blockchain-based property ownership registry for real estate transactions VMware Certified Professional - Network Virtualization (VCP-NV) Vue.js Beginner
+486,Waverly Hylden,PixelWave Implementing load balancing and auto-scaling for cloud applications VMware Certified Professional - Network Virtualization (VCP-NV) Vue.js Beginner
+430,Sadye Phette,CodeCrafters Implementing differential privacy techniques for data anonymization   Embedded Systems Intermediate
+430,Sadye Phette,AppWorks Building a recommendation engine based on user behavior analysis   Embedded Systems Intermediate
+430,Sadye Phette,CyberBlast Developing a blockchain-based property ownership registry for real estate transactions   Embedded Systems Intermediate
+202,Bernetta Schinetti,DataMatrix Designing a decentralized autonomous organization (DAO) for decentralized governance   Kotlin Advance
+427,Bertina Simms,PixelNest Designing a decentralized finance (DeFi) derivatives platform for risk management   HTML/CSS Intermediate
+427,Bertina Simms,PixelWave Building a collaborative project management platform for teams   HTML/CSS Intermediate
+313,Dalston Rozalski,CyberBlast Designing a fault-tolerant network infrastructure for mission-critical applications   Python Intermediate
+313,Dalston Rozalski,AppWorks Designing a blockchain-based supply chain management solution for traceability   Python Intermediate
+99,Lowell Agius,DataSphere Integrating biometric authentication for user identity verification Google Professional Cloud Network Engineer Java Advance
+500,Celina Clendennen,DataMatrix Building a decentralized reputation system for online communities   GraphQL Beginner
+259,Nichols Petley,CodeBurst Designing a decentralized autonomous organization (DAO) for decentralized governance   Express.js Intermediate
+259,Nichols Petley,PixelGenius Designing a network intrusion detection system for cybersecurity   Express.js Intermediate
+264,Jodi Maryska,ByteBlaze Designing a network intrusion detection system for cybersecurity   Docker Beginner
+416,Leonardo Tetsall,  VMware Certified Advanced Professional - Cloud Management and Automation (VCAP-CMA) Kubernetes Intermediate
+457,Cole Kleis,CodeSavvy Designing a fault-tolerant network infrastructure for mission-critical applications VMware Certified Professional - Network Virtualization (VCP-NV) Angular Intermediate
+457,Cole Kleis,CyberForge Designing a federated authentication system for seamless user access VMware Certified Professional - Network Virtualization (VCP-NV) Angular Intermediate
+377,Eziechiele Laba,CyberDynamics Building a decentralized marketplace using blockchain smart contracts Microsoft Certified: Azure Solutions Architect Expert Artificial Intelligence Beginner
+480,Ellerey Troucher,  ITIL Foundation Certification Microservices Architecture Beginner
+65,Konrad Lerego,TechForge Building a decentralized messaging protocol for secure communication   Internet of Things Beginner
+65,Konrad Lerego,CodeSavvy Designing a data classification system for information governance   Internet of Things Beginner
+287,Chantalle O'Dulchonta,CodeGenius Developing a blockchain-based tokenization platform for asset-backed securities Microsoft Certified: Azure Data Engineer Associate React.js Beginner
+287,Chantalle O'Dulchonta,CodeGenius Developing a blockchain-based tokenization platform for asset-backed securities Certified Information Security Manager (CISM) React.js Beginner
+287,Chantalle O'Dulchonta,ByteCloud Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Microsoft Certified: Azure Data Engineer Associate React.js Beginner
+287,Chantalle O'Dulchonta,ByteCloud Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Information Security Manager (CISM) React.js Beginner
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate Test-Driven Development (TDD) Beginner
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model VMware Certified Professional - Data Center Virtualization (VCP-DCV) Test-Driven Development (TDD) Beginner
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model CompTIA IT Fundamentals (ITF+) Test-Driven Development (TDD) Beginner
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Associate Cloud Engineer Go Beginner
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Professional Data Engineer Go Beginner
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Cisco Certified DevNet Associate Go Beginner
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Associate Cloud Engineer Go Beginner
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Professional Data Engineer Go Beginner
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Cisco Certified DevNet Associate Go Beginner
+441,Diego Iskowicz,TechNest Designing a blockchain-based supply chain management solution for traceability Google Professional Collaboration Engineer SQL Beginner
+441,Diego Iskowicz,PixelGenius Designing a decentralized exchange (DEX) for token swaps and liquidity pooling Google Professional Collaboration Engineer SQL Beginner
+59,Robinette Antcliffe,CodeBurst Designing a fault-tolerant network infrastructure for mission-critical applications   Python Intermediate
+333,Cynthy Hatherleigh,InnovateWave Developing a content recommendation engine for personalized experiences   Robotics Advance
+380,Astrid Wildish,TechCraft Building a content management system with headless CMS architecture   Java Beginner
+304,Nathanael Sant,CodeCrafters Designing a decentralized social media platform for censorship-resistant communication   Big Data Advance
+304,Nathanael Sant,AppSphere Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision   Big Data Advance
+304,Nathanael Sant,CyberForge Building a content management system with headless CMS architecture   Big Data Advance
+69,Konstantin Harfoot,CyberBlast Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision   Hibernate Advance
+69,Konstantin Harfoot,ByteGenius Implementing a zero-trust security model for network security   Hibernate Advance
+69,Konstantin Harfoot,ByteHub Designing a federated authentication system for seamless user access   Hibernate Advance
+163,Packston Ledingham,  Google Associate Cloud Engineer JavaScript Advance
+289,Constantine Ply,  Microsoft Certified: Azure DevOps Engineer Expert Express.js Intermediate
+289,Constantine Ply,  Microsoft Certified: Azure Security Engineer Associate Express.js Intermediate
+289,Constantine Ply,  Google Professional Cloud Architect Express.js Intermediate
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations CompTIA A+ Machine Learning Advance
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations VMware Certified Professional - Network Virtualization (VCP-NV) Machine Learning Advance
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption CompTIA A+ Machine Learning Advance
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption VMware Certified Professional - Network Virtualization (VCP-NV) Machine Learning Advance
+156,Rey Polkinghorne,PixelCloud Implementing feature toggles for controlled release of software features   Django Beginner
+156,Rey Polkinghorne,AppWorks Implementing a decentralized finance (DeFi) derivatives platform for risk management   Django Beginner
+156,Rey Polkinghorne,CyberNauts Building an automated incident response system for cybersecurity   Django Beginner
+156,Rey Polkinghorne,CodePulse Implementing a data governance framework for data quality management   Django Beginner
+502,Martina McAlester,InnovateMatrix Designing a decentralized exchange (DEX) for token swaps and liquidity pooling Google Professional Data Engineer Jenkins Advance
+502,Martina McAlester,PixelWave Implementing server-side rendering for optimized web performance Google Professional Data Engineer Jenkins Advance
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Google Professional Machine Learning Engineer Flask Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Google Professional Machine Learning Engineer Flask Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Machine Learning Engineer Flask Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Google Professional Machine Learning Engineer Flask Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Google Professional Machine Learning Engineer Flask Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Flask Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Flask Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Flask Beginner
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Google Professional Machine Learning Engineer Flask Beginner
+138,Vince Lideard,AppBlast Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi)   Scala Advance
+138,Vince Lideard,TechNest Optimizing database performance and scalability for high-volume data processing   Scala Advance
+338,Lorettalorna Falk,AppMatrix Designing a distributed file system for efficient data storage and retrieval   Python Beginner
+338,Lorettalorna Falk,CodeWave Designing a data classification system for information governance   Python Beginner
+242,Otha Sherratt,DataSphere Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional Internet of Things Advance
+242,Otha Sherratt,CyberForge Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified DevOps Engineer - Professional Internet of Things Advance
+439,Jeanette Bruford,CodeNexus Implementing feature toggles for controlled release of software features Cisco Certified Design Associate (CCDA) Kubernetes Beginner
+439,Jeanette Bruford,PixelCloud Building a knowledge graph for semantic search and recommendation Cisco Certified Design Associate (CCDA) Kubernetes Beginner
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences VMware Certified Professional - Network Virtualization (VCP-NV) ASP.NET Intermediate
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences Certified Cloud Security Professional (CCSP) ASP.NET Intermediate
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management VMware Certified Professional - Network Virtualization (VCP-NV) ASP.NET Intermediate
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management Certified Cloud Security Professional (CCSP) ASP.NET Intermediate
+155,Godfry Geraldo,  Cisco Certified Network Professional (CCNP) HTML/CSS Advance
+155,Godfry Geraldo,  Google Professional Machine Learning Engineer HTML/CSS Advance
+155,Godfry Geraldo,  CompTIA Security+ HTML/CSS Advance
+460,Loria Sellors,CodePulse Developing a tokenization platform for asset digitization and trading   Embedded Systems Advance
+378,Cory Romaynes,    GraphQL Advance
+126,Glendon Manuely,PixelWave Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Cisco Certified DevNet Associate Test-Driven Development (TDD) Intermediate
+143,Paton Toopin,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   JavaScript Advance
+41,Richmond Dorn,ByteCloud Developing a peer-to-peer lending platform with blockchain technology Certified Cloud Security Professional (CCSP) Kanban Intermediate
+125,Lyndel Ziemen,CyberMatrix Designing a decentralized social media platform for censorship-resistant communication   SQL Beginner
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance Cisco Certified Design Professional (CCDP) Artificial Intelligence Beginner
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance Certified Information Systems Auditor (CISA) Artificial Intelligence Beginner
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance VMware Certified Associate - Digital Business Transformation (VCA-DBT) Artificial Intelligence Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending Cisco Certified Design Professional (CCDP) Artificial Intelligence Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending Certified Information Systems Auditor (CISA) Artificial Intelligence Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending VMware Certified Associate - Digital Business Transformation (VCA-DBT) Artificial Intelligence Beginner
+140,Katleen Restieaux,CodePulse Integrating AI-driven automation for optimizing IT operations AWS Certified Solutions Architect - Professional PHP Intermediate
+140,Katleen Restieaux,CodePulse Integrating AI-driven automation for optimizing IT operations Google Professional Collaboration Engineer PHP Intermediate
+140,Katleen Restieaux,CodePulse Integrating AI-driven automation for optimizing IT operations Cisco Certified Design Professional (CCDP) PHP Intermediate
+24,Shurlocke Rittelmeyer,ByteBlaze Building a scalable backend system using serverless architecture Microsoft Certified: Azure Fundamentals Python Beginner
+156,Rey Polkinghorne,PixelCloud Implementing feature toggles for controlled release of software features   Embedded Systems Advance
+156,Rey Polkinghorne,AppWorks Implementing a decentralized finance (DeFi) derivatives platform for risk management   Embedded Systems Advance
+156,Rey Polkinghorne,CyberNauts Building an automated incident response system for cybersecurity   Embedded Systems Advance
+156,Rey Polkinghorne,CodePulse Implementing a data governance framework for data quality management   Embedded Systems Advance
+102,Lee Patillo,DataSphere Building a content management system with headless CMS architecture   Rust Advance
+102,Lee Patillo,CodeSavvy Developing a compliance management platform for regulatory requirements   Rust Advance
+102,Lee Patillo,DataMatrix Integrating blockchain technology for secure transactions in a financial application   Rust Advance
+454,Jonas Greed,ByteCloud Designing a data classification system for information governance Certified Cloud Security Professional (CCSP) Big Data Beginner
+250,Kirsten Reagan,DataMatrix Building a continuous monitoring solution for infrastructure security   TypeScript Intermediate
+30,Earvin McIllrick,AppInfinity Designing a decentralized social media platform for censorship-resistant communication   Angular Intermediate
+30,Earvin McIllrick,AppSphere Building an anomaly detection system for cybersecurity threat detection   Angular Intermediate
+30,Earvin McIllrick,AppMatrix Building a blockchain-based digital identity management system for secure authentication   Angular Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Google Professional Cloud Architect Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Microsoft Certified: Azure Data Engineer Associate Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Project Management Professional (PMP) Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Google Professional Cloud Architect Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Microsoft Certified: Azure Data Engineer Associate Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Project Management Professional (PMP) Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Cloud Architect Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Data Engineer Associate Natural Language Processing (NLP) Beginner
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Project Management Professional (PMP) Natural Language Processing (NLP) Beginner
+489,Eve Veryard,CodeCraft Implementing single sign-on authentication for seamless user access Cisco Certified Network Professional (CCNP) Vue.js Advance
+489,Eve Veryard,ByteBlaze Designing a serverless data processing pipeline for real-time analytics Cisco Certified Network Professional (CCNP) Vue.js Advance
+505,Lee Abrahamowitcz,ByteHub Integrating AI-driven automation for optimizing IT operations   Express.js Advance
+312,Hendrika Leeb,ByteGenius Implementing a decentralized finance (DeFi) derivatives protocol for risk management   RESTful APIs Beginner
+459,Roseanne Lutz,CodeGenius Integrating IoT sensors for monitoring and control of smart devices Cisco Certified DevNet Associate Hibernate Beginner
+88,Paco Tyson,  VMware Certified Design Expert (VCDX) Git Intermediate
+114,Sibby Refford,ByteBlaze Developing a scalable web application using microservices architecture VMware Certified Advanced Professional - Data Center Design (VCAP-DCD) C++ Beginner
+114,Sibby Refford,ByteBlaze Developing a scalable web application using microservices architecture Project Management Professional (PMP) C++ Beginner
+114,Sibby Refford,CodePulse Building a secure messaging platform with end-to-end encryption VMware Certified Advanced Professional - Data Center Design (VCAP-DCD) C++ Beginner
+114,Sibby Refford,CodePulse Building a secure messaging platform with end-to-end encryption Project Management Professional (PMP) C++ Beginner
+230,Jeanine Trewhela,    ASP.NET Beginner
+487,Horten Truwert,    Scala Intermediate
+155,Godfry Geraldo,  Cisco Certified Network Professional (CCNP) Ruby on Rails Intermediate
+155,Godfry Geraldo,  Google Professional Machine Learning Engineer Ruby on Rails Intermediate
+155,Godfry Geraldo,  CompTIA Security+ Ruby on Rails Intermediate
+58,Ricca Adriaan,InnovatePulse Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Information Systems Security Professional (CISSP) SQL Intermediate
+58,Ricca Adriaan,InnovatePulse Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Cloud Security Professional (CCSP) SQL Intermediate
+257,Fransisco Connelly,DataWorks Optimizing database performance and scalability for high-volume data processing CompTIA Advanced Security Practitioner (CASP+) PHP Advance
+257,Fransisco Connelly,ByteHub Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision CompTIA Advanced Security Practitioner (CASP+) PHP Advance
+189,Rosalinda Camilli,ByteCloud Integrating blockchain technology for secure transactions in a financial application Microsoft Certified: Azure AI Engineer Associate Microservices Architecture Advance
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Google Professional Cloud Architect GraphQL Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Microsoft Certified: Azure Data Engineer Associate GraphQL Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Project Management Professional (PMP) GraphQL Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Google Professional Cloud Architect GraphQL Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Microsoft Certified: Azure Data Engineer Associate GraphQL Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Project Management Professional (PMP) GraphQL Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Cloud Architect GraphQL Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Data Engineer Associate GraphQL Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Project Management Professional (PMP) GraphQL Intermediate
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Entry Networking Technician (CCENT) SOAP Advance
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance AWS Certified Solutions Architect - Professional SOAP Advance
+356,Oliy Harrhy,DataMatrix Designing a federated authentication system for seamless user access   Swift Advance
+356,Oliy Harrhy,InnovateSavvy Designing a decentralized exchange (DEX) for token swaps and liquidity pooling   Swift Advance
+147,Blair Kynton,ByteHub Designing a geospatial application for location-based services   Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+313,Dalston Rozalski,CyberBlast Designing a fault-tolerant network infrastructure for mission-critical applications   Hibernate Beginner
+313,Dalston Rozalski,AppWorks Designing a blockchain-based supply chain management solution for traceability   Hibernate Beginner
+435,Binny Smalman,    Ruby on Rails Advance
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences VMware Certified Professional - Network Virtualization (VCP-NV) Natural Language Processing (NLP) Intermediate
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences Certified Cloud Security Professional (CCSP) Natural Language Processing (NLP) Intermediate
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management VMware Certified Professional - Network Virtualization (VCP-NV) Natural Language Processing (NLP) Intermediate
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management Certified Cloud Security Professional (CCSP) Natural Language Processing (NLP) Intermediate
+355,Robbie Stooke,  Google Professional Machine Learning Engineer HTML/CSS Beginner
+264,Jodi Maryska,ByteBlaze Designing a network intrusion detection system for cybersecurity   Kanban Advance
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising AWS Certified Solutions Architect - Associate Computer Vision Intermediate
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising CompTIA Advanced Security Practitioner (CASP+) Computer Vision Intermediate
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising AWS Certified Solutions Architect - Professional Computer Vision Intermediate
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access AWS Certified Solutions Architect - Associate Computer Vision Intermediate
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access CompTIA Advanced Security Practitioner (CASP+) Computer Vision Intermediate
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access AWS Certified Solutions Architect - Professional Computer Vision Intermediate
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified Solutions Architect - Associate Computer Vision Intermediate
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending CompTIA Advanced Security Practitioner (CASP+) Computer Vision Intermediate
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified Solutions Architect - Professional Computer Vision Intermediate
+88,Paco Tyson,  VMware Certified Design Expert (VCDX) Kubernetes Beginner
+120,Mady Arstingall,CodeNest Developing a privacy-preserving data sharing platform using homomorphic encryption   Test-Driven Development (TDD) Beginner
+120,Mady Arstingall,CodeCraft Building a fault-tolerant distributed messaging system   Test-Driven Development (TDD) Beginner
+120,Mady Arstingall,InnovateSavvy Building a decentralized storage network for secure and censorship-resistant file storage   Test-Driven Development (TDD) Beginner
+120,Mady Arstingall,TechSavvy Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Test-Driven Development (TDD) Beginner
+296,Eamon Whooley,CyberBlast Designing a decentralized storage network for distributed file storage AWS Certified DevOps Engineer - Professional Behavior-Driven Development (BDD) Advance
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Google Professional Machine Learning Engineer Java Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Google Professional Machine Learning Engineer Java Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Machine Learning Engineer Java Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Google Professional Machine Learning Engineer Java Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Google Professional Machine Learning Engineer Java Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate Java Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate Java Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) Java Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Google Professional Machine Learning Engineer Java Intermediate
+134,Idalia Robarts,    Swift Advance
+467,Rosalynd Scothron,  Microsoft Certified: Azure Developer Associate Artificial Intelligence Advance
+379,Lanita Salmon,DataGenius Designing and deploying a high-availability architecture for web applications ITIL Foundation Certification Angular Advance
+388,Breena Minelli,  Project Management Professional (PMP) Flask Intermediate
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising AWS Certified Solutions Architect - Associate Go Advance
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising CompTIA Advanced Security Practitioner (CASP+) Go Advance
+53,Shoshanna Rigden,InnovateMatrix Designing a decentralized crowdfunding platform for tokenized fundraising AWS Certified Solutions Architect - Professional Go Advance
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access AWS Certified Solutions Architect - Associate Go Advance
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access CompTIA Advanced Security Practitioner (CASP+) Go Advance
+53,Shoshanna Rigden,PixelPioneer Designing a federated authentication system for seamless user access AWS Certified Solutions Architect - Professional Go Advance
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified Solutions Architect - Associate Go Advance
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending CompTIA Advanced Security Practitioner (CASP+) Go Advance
+53,Shoshanna Rigden,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified Solutions Architect - Professional Go Advance
+460,Loria Sellors,CodePulse Developing a tokenization platform for asset digitization and trading   GraphQL Advance
+239,Fredrick Blondel,    Big Data Advance
+306,Sheilakathryn Crocket,ByteCloud Building a recommendation engine based on user behavior analysis CompTIA A+ TypeScript Beginner
+306,Sheilakathryn Crocket,CyberBlast Implementing real-time data streaming for monitoring system performance CompTIA A+ TypeScript Beginner
+452,Beniamino Elie,  AWS Certified Developer - Associate Python Intermediate
+62,Ermina Doulden,CodeGenius Building an automated incident response system for cybersecurity Google Professional Machine Learning Engineer C# Intermediate
+62,Ermina Doulden,CodeGenius Building an automated incident response system for cybersecurity Microsoft Certified: Azure Developer Associate C# Intermediate
+459,Roseanne Lutz,CodeGenius Integrating IoT sensors for monitoring and control of smart devices Cisco Certified DevNet Associate C# Advance
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences VMware Certified Professional - Network Virtualization (VCP-NV) SOAP Advance
+181,Arne Twiggins,ByteSphere Developing an e-commerce platform with personalized user experiences Certified Cloud Security Professional (CCSP) SOAP Advance
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management VMware Certified Professional - Network Virtualization (VCP-NV) SOAP Advance
+181,Arne Twiggins,CodeCloud Building a blockchain-based decentralized finance (DeFi) derivatives protocol for risk management Certified Cloud Security Professional (CCSP) SOAP Advance
+489,Eve Veryard,CodeCraft Implementing single sign-on authentication for seamless user access Cisco Certified Network Professional (CCNP) ASP.NET Beginner
+489,Eve Veryard,ByteBlaze Designing a serverless data processing pipeline for real-time analytics Cisco Certified Network Professional (CCNP) ASP.NET Beginner
+51,Corissa Franzen,    Python Intermediate
+234,Ajay Garvill,CyberMatrix Building a fault-tolerant distributed messaging system CompTIA A+ Embedded Systems Advance
+21,Floyd Withnall,  VMware Certified Professional - Data Center Virtualization (VCP-DCV) Internet of Things Intermediate
+21,Floyd Withnall,  CompTIA IT Fundamentals (ITF+) Internet of Things Intermediate
+120,Mady Arstingall,CodeNest Developing a privacy-preserving data sharing platform using homomorphic encryption   C++ Beginner
+120,Mady Arstingall,CodeCraft Building a fault-tolerant distributed messaging system   C++ Beginner
+120,Mady Arstingall,InnovateSavvy Building a decentralized storage network for secure and censorship-resistant file storage   C++ Beginner
+120,Mady Arstingall,TechSavvy Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   C++ Beginner
+185,Quill Quimby,InnovateForge Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Information Systems Auditor (CISA) Jenkins Intermediate
+234,Ajay Garvill,CyberMatrix Building a fault-tolerant distributed messaging system CompTIA A+ PHP Intermediate
+209,Parker Clute,InnovateWave Developing a supply chain management platform with blockchain technology   React.js Beginner
+179,Swen Yarrington,CodeNest Building a collaborative project management platform for teams Google Professional Data Engineer Rust Intermediate
+29,Lilllie Allot,ByteBlaze Building a machine learning model for predictive analytics in cybersecurity   Continuous Integration/Continuous Deployment (CI/CD) Beginner
+486,Waverly Hylden,PixelNest Developing a scalable web application using microservices architecture VMware Certified Professional - Network Virtualization (VCP-NV) RESTful APIs Advance
+486,Waverly Hylden,CodeNest Developing a blockchain-based property ownership registry for real estate transactions VMware Certified Professional - Network Virtualization (VCP-NV) RESTful APIs Advance
+486,Waverly Hylden,PixelWave Implementing load balancing and auto-scaling for cloud applications VMware Certified Professional - Network Virtualization (VCP-NV) RESTful APIs Advance
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Microsoft Certified: Azure Fundamentals Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Google Professional Cloud Network Engineer Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Certified Information Security Manager (CISM) Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Microsoft Certified: Azure Fundamentals Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Google Professional Cloud Network Engineer Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity AWS Certified DevOps Engineer - Professional Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Certified Information Security Manager (CISM) Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Microsoft Certified: Azure Fundamentals Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Google Professional Cloud Network Engineer Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading AWS Certified DevOps Engineer - Professional Behavior-Driven Development (BDD) Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Security Manager (CISM) Behavior-Driven Development (BDD) Beginner
+149,Christiane Sharer,TechNest Developing a chatbot using natural language processing for customer support Microsoft Certified: Azure Administrator Associate Natural Language Processing (NLP) Advance
+149,Christiane Sharer,AppNexus Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate Natural Language Processing (NLP) Advance
+149,Christiane Sharer,CyberBlast Designing a decentralized storage network for distributed file storage Microsoft Certified: Azure Administrator Associate Natural Language Processing (NLP) Advance
+362,Nigel Lewing,InnovateMatrix Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Systems Auditor (CISA) JavaScript Intermediate
+500,Celina Clendennen,DataMatrix Building a decentralized reputation system for online communities   GraphQL Beginner
+156,Rey Polkinghorne,PixelCloud Implementing feature toggles for controlled release of software features   Swift Advance
+156,Rey Polkinghorne,AppWorks Implementing a decentralized finance (DeFi) derivatives platform for risk management   Swift Advance
+156,Rey Polkinghorne,CyberNauts Building an automated incident response system for cybersecurity   Swift Advance
+156,Rey Polkinghorne,CodePulse Implementing a data governance framework for data quality management   Swift Advance
+417,Braden Gaucher,CodeNest Developing a decentralized identity verification system for KYC compliance   TypeScript Advance
+392,Marylinda Cazereau,AppWorks Designing a distributed ledger system for transparent record-keeping   Go Advance
+392,Marylinda Cazereau,InnovateSavvy Building a decentralized finance (DeFi) platform for peer-to-peer lending   Go Advance
+138,Vince Lideard,AppBlast Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi)   Artificial Intelligence Intermediate
+138,Vince Lideard,TechNest Optimizing database performance and scalability for high-volume data processing   Artificial Intelligence Intermediate
+441,Diego Iskowicz,TechNest Designing a blockchain-based supply chain management solution for traceability Google Professional Collaboration Engineer TypeScript Intermediate
+441,Diego Iskowicz,PixelGenius Designing a decentralized exchange (DEX) for token swaps and liquidity pooling Google Professional Collaboration Engineer TypeScript Intermediate
+126,Glendon Manuely,PixelWave Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Cisco Certified DevNet Associate Internet of Things Advance
+436,Darleen Scorrer,ByteCloud Building a data lake for centralized storage and analysis of big data Google Professional Cloud Security Engineer JavaScript Beginner
+142,Megen Cortese,ByteBlaze Building a data lake for centralized storage and analysis of big data   Express.js Intermediate
+259,Nichols Petley,CodeBurst Designing a decentralized autonomous organization (DAO) for decentralized governance   Robotics Beginner
+259,Nichols Petley,PixelGenius Designing a network intrusion detection system for cybersecurity   Robotics Beginner
+460,Loria Sellors,CodePulse Developing a tokenization platform for asset digitization and trading   C# Intermediate
+499,Stevana Surmeyers,  Google Professional Cloud Security Engineer Git Advance
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security Google Professional Cloud Network Engineer ASP.NET Intermediate
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security Microsoft Certified: Azure Developer Associate ASP.NET Intermediate
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security CompTIA Cybersecurity Analyst (CySA+) ASP.NET Intermediate
+348,Dulcia Cumbridge,DataGenius Implementing a hybrid identity management solution for user access control Microsoft Certified: Azure Security Engineer Associate PHP Beginner
+242,Otha Sherratt,DataSphere Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional Rust Beginner
+242,Otha Sherratt,CyberForge Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified DevOps Engineer - Professional Rust Beginner
+454,Jonas Greed,ByteCloud Designing a data classification system for information governance Certified Cloud Security Professional (CCSP) Microservices Architecture Intermediate
+428,Nappy Shiels,  Google Professional Cloud Architect RESTful APIs Beginner
+338,Lorettalorna Falk,AppMatrix Designing a distributed file system for efficient data storage and retrieval   Kotlin Advance
+338,Lorettalorna Falk,CodeWave Designing a data classification system for information governance   Kotlin Advance
+248,Herve Rounsefull,AppSphere Developing a smart contract auditing tool for blockchain security   Kanban Intermediate
+248,Herve Rounsefull,CodeWave Developing a blockchain-based decentralized exchange (DEX) for tokenized asset trading   Kanban Intermediate
+305,Lorette Bloy,  Project Management Professional (PMP) WebSockets Beginner
+305,Lorette Bloy,  Google Professional Data Engineer WebSockets Beginner
+434,Joby Quinnet,CyberNauts Implementing a distributed ledger technology for supply chain transparency   Scrum Advance
+434,Joby Quinnet,AppNexus Developing a decentralized governance platform for community-driven decision-making   Scrum Advance
+13,Elsie Minnock,AppMatrix Implementing single sign-on authentication for seamless user access Microsoft Certified: Azure AI Engineer Associate Angular Advance
+13,Elsie Minnock,AppMatrix Implementing single sign-on authentication for seamless user access CompTIA Network+ Angular Advance
+13,Elsie Minnock,AppMatrix Implementing single sign-on authentication for seamless user access CompTIA Cybersecurity Analyst (CySA+) Angular Advance
+13,Elsie Minnock,ByteSphere Building a machine learning model for predictive analytics in cybersecurity Microsoft Certified: Azure AI Engineer Associate Angular Advance
+13,Elsie Minnock,ByteSphere Building a machine learning model for predictive analytics in cybersecurity CompTIA Network+ Angular Advance
+13,Elsie Minnock,ByteSphere Building a machine learning model for predictive analytics in cybersecurity CompTIA Cybersecurity Analyst (CySA+) Angular Advance
+384,Vin Wahner,DataSphere Designing a federated authentication system for seamless user access Google Professional Collaboration Engineer Django Intermediate
+384,Vin Wahner,DataSphere Designing a federated authentication system for seamless user access AWS Certified Security - Specialty Django Intermediate
+47,Nora Hellsdon,AppWorks Implementing a hybrid identity management solution for user access control   JavaScript Advance
+137,Marney Tilio,CodePulse Implementing containerization with Docker for application deployment AWS Certified Solutions Architect - Associate Agile Methodologies Advance
+137,Marney Tilio,CodePulse Implementing containerization with Docker for application deployment AWS Certified Security - Specialty Agile Methodologies Advance
+137,Marney Tilio,CodePulse Implementing containerization with Docker for application deployment CompTIA Security+ Agile Methodologies Advance
+468,Keith Earey,DataGenius Building a decentralized reputation system for online communities   WebSockets Beginner
+41,Richmond Dorn,ByteCloud Developing a peer-to-peer lending platform with blockchain technology Certified Cloud Security Professional (CCSP) Data Science Advance
+258,Simmonds Sindell,    Java Intermediate
+110,Florencia Rowcastle,  ITIL Foundation Certification Flask Beginner
+173,Celestina Rosenfeld,CodeSavvy Designing a geospatial application for location-based services Certified ScrumMaster (CSM) Docker Advance
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications Certified Information Systems Security Professional (CISSP) Natural Language Processing (NLP) Advance
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications Microsoft Certified: Azure Security Engineer Associate Natural Language Processing (NLP) Advance
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications VMware Certified Design Expert (VCDX) Natural Language Processing (NLP) Advance
+325,Selinda Tant,CodeNexus Designing a federated authentication system for seamless user access AWS Certified SysOps Administrator - Associate ASP.NET Intermediate
+325,Selinda Tant,CodeNexus Designing a federated authentication system for seamless user access AWS Certified Solutions Architect - Associate ASP.NET Intermediate
+325,Selinda Tant,DataSphere Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets AWS Certified SysOps Administrator - Associate ASP.NET Intermediate
+325,Selinda Tant,DataSphere Developing a blockchain-based peer-to-peer energy trading platform for renewable energy markets AWS Certified Solutions Architect - Associate ASP.NET Intermediate
+45,Lia Midner,AppSphere Designing a decentralized autonomous organization (DAO) for decentralized governance   Machine Learning Advance
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Associate Cloud Engineer Scrum Advance
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Professional Data Engineer Scrum Advance
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Cisco Certified DevNet Associate Scrum Advance
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Associate Cloud Engineer Scrum Advance
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Professional Data Engineer Scrum Advance
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Cisco Certified DevNet Associate Scrum Advance
+332,Rodger Stather,CodeCrafters Implementing a decentralized autonomous organization (DAO) for decentralized governance AWS Certified DevOps Engineer - Professional React.js Beginner
+332,Rodger Stather,AppSphere Developing a compliance management platform for regulatory requirements AWS Certified DevOps Engineer - Professional React.js Beginner
+229,Marsh O'Cullen,  Project Management Professional (PMP) Big Data Beginner
+211,Tedra Woolmington,AppSphere Developing a decentralized prediction market platform for crowd-sourced forecasting   C# Advance
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology Certified Ethical Hacker (CEH) Express.js Advance
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology AWS Certified Developer - Associate Express.js Advance
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management Certified Ethical Hacker (CEH) Express.js Advance
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management AWS Certified Developer - Associate Express.js Advance
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections Certified Ethical Hacker (CEH) Express.js Advance
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections AWS Certified Developer - Associate Express.js Advance
+141,Sonya Triplet,CyberMatrix Developing a hybrid cloud infrastructure for flexible resource management Google Professional Cloud Architect Hibernate Intermediate
+141,Sonya Triplet,InnovateMatrix Building a distributed consensus algorithm for decentralized applications Google Professional Cloud Architect Hibernate Intermediate
+105,Rickey Curm,CodeSavvy Implementing a blockchain-based supply chain traceability solution AWS Certified DevOps Engineer - Professional Spring Framework Beginner
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance VMware Certified Associate - Digital Business Transformation (VCA-DBT) Artificial Intelligence Intermediate
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Machine Learning Engineer Artificial Intelligence Intermediate
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Data Engineer Artificial Intelligence Intermediate
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Cloud Architect Artificial Intelligence Intermediate
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance AWS Certified Solutions Architect - Professional Artificial Intelligence Intermediate
+66,Barclay Lere,  VMware Certified Associate - Digital Business Transformation (VCA-DBT) PHP Beginner
+66,Barclay Lere,  Google Associate Cloud Engineer PHP Beginner
+432,Frederick Jimmison,CyberForge Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling   Node.js Advance
+106,Fabe Dimbleby,InnovateForge Building a mobile wallet application for digital currency transactions   Kanban Beginner
+89,Ward Gherardelli,CodeNexus Designing a distributed file system for efficient data storage and retrieval Cisco Certified DevNet Associate Jenkins Intermediate
+40,Quintana Kelberer,TechSavvy Implementing a decentralized finance (DeFi) derivatives platform for risk management   TypeScript Advance
+40,Quintana Kelberer,TechCraft Implementing a decentralized autonomous organization (DAO) for decentralized governance   TypeScript Advance
+254,Hinze Teresi,CodeCraft Designing a decentralized finance (DeFi) derivatives platform for risk management   Spring Framework Advance
+254,Hinze Teresi,DigitalDynamics Implementing a decentralized identity management solution using decentralized identifiers (DIDs)   Spring Framework Advance
+92,Nikolaus Mariel,CodeNexus Designing a decentralized finance (DeFi) derivatives platform for risk management   Kotlin Beginner
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,InnovateMatrix Designing a federated authentication system for seamless user access Google Professional Machine Learning Engineer WebSockets Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,CodePulse Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) Google Professional Machine Learning Engineer WebSockets Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,CyberBlast Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Machine Learning Engineer WebSockets Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,DataNest Developing a scalable web application using microservices architecture Google Professional Machine Learning Engineer WebSockets Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,AppBlast Building a scalable data warehouse for business intelligence analytics Google Professional Machine Learning Engineer WebSockets Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Administrator Associate WebSockets Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Microsoft Certified: Azure Developer Associate WebSockets Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Cisco Certified Network Associate (CCNA) WebSockets Intermediate
+80,Brantley Barbera,PixelNest Designing a decentralized autonomous liquidity protocol for decentralized finance (DeFi) Google Professional Machine Learning Engineer WebSockets Intermediate
+257,Fransisco Connelly,DataWorks Optimizing database performance and scalability for high-volume data processing CompTIA Advanced Security Practitioner (CASP+) Embedded Systems Advance
+257,Fransisco Connelly,ByteHub Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision CompTIA Advanced Security Practitioner (CASP+) Embedded Systems Advance
+129,Anders Jarvie,    SOAP Advance
+222,Gwyneth Hayes,    SQL Advance
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations CompTIA A+ Scala Intermediate
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations VMware Certified Professional - Network Virtualization (VCP-NV) Scala Intermediate
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption CompTIA A+ Scala Intermediate
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption VMware Certified Professional - Network Virtualization (VCP-NV) Scala Intermediate
+163,Packston Ledingham,  Google Associate Cloud Engineer Big Data Intermediate
+398,Lettie Load,InnovateMatrix Building a content management system with headless CMS architecture Project Management Professional (PMP) React.js Beginner
+398,Lettie Load,PixelForge Implementing a decentralized finance (DeFi) derivatives platform for risk management Project Management Professional (PMP) React.js Beginner
+398,Lettie Load,CodeSavvy Developing a cybersecurity solution for threat detection and response Project Management Professional (PMP) React.js Beginner
+460,Loria Sellors,CodePulse Developing a tokenization platform for asset digitization and trading   Swift Advance
+417,Braden Gaucher,CodeNest Developing a decentralized identity verification system for KYC compliance   Natural Language Processing (NLP) Advance
+54,Sosanna Sheran,DataSphere Designing a geospatial application for location-based services   Machine Learning Advance
+300,Kin Kilmaster,    Data Science Advance
+69,Konstantin Harfoot,CyberBlast Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision   Behavior-Driven Development (BDD) Intermediate
+69,Konstantin Harfoot,ByteGenius Implementing a zero-trust security model for network security   Behavior-Driven Development (BDD) Intermediate
+69,Konstantin Harfoot,ByteHub Designing a federated authentication system for seamless user access   Behavior-Driven Development (BDD) Intermediate
+179,Swen Yarrington,CodeNest Building a collaborative project management platform for teams Google Professional Data Engineer Robotics Beginner
+371,Alaster Langstrath,    Go Advance
+202,Bernetta Schinetti,DataMatrix Designing a decentralized autonomous organization (DAO) for decentralized governance   Robotics Beginner
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology Certified Ethical Hacker (CEH) React.js Intermediate
+496,Lovell MacAllan,AppSphere Designing a self-sovereign identity solution using blockchain technology AWS Certified Developer - Associate React.js Intermediate
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management Certified Ethical Hacker (CEH) React.js Intermediate
+496,Lovell MacAllan,InnovatePulse Implementing a decentralized finance (DeFi) derivatives platform for risk management AWS Certified Developer - Associate React.js Intermediate
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections Certified Ethical Hacker (CEH) React.js Intermediate
+496,Lovell MacAllan,AppWorks Building a blockchain-based voting system for transparent elections AWS Certified Developer - Associate React.js Intermediate
+230,Jeanine Trewhela,    Kubernetes Intermediate
+114,Sibby Refford,ByteBlaze Developing a scalable web application using microservices architecture VMware Certified Advanced Professional - Data Center Design (VCAP-DCD) GraphQL Advance
+114,Sibby Refford,ByteBlaze Developing a scalable web application using microservices architecture Project Management Professional (PMP) GraphQL Advance
+114,Sibby Refford,CodePulse Building a secure messaging platform with end-to-end encryption VMware Certified Advanced Professional - Data Center Design (VCAP-DCD) GraphQL Advance
+114,Sibby Refford,CodePulse Building a secure messaging platform with end-to-end encryption Project Management Professional (PMP) GraphQL Advance
+60,Jaquith Yeabsley,CyberMatrix Developing a gamification platform for employee engagement and training Cisco Certified Entry Networking Technician (CCENT) Microservices Architecture Advance
+60,Jaquith Yeabsley,CyberMatrix Developing a gamification platform for employee engagement and training CompTIA Network+ Microservices Architecture Advance
+69,Konstantin Harfoot,CyberBlast Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision   Embedded Systems Beginner
+69,Konstantin Harfoot,ByteGenius Implementing a zero-trust security model for network security   Embedded Systems Beginner
+69,Konstantin Harfoot,ByteHub Designing a federated authentication system for seamless user access   Embedded Systems Beginner
+448,Wainwright Hassin,AppMatrix Implementing a decentralized autonomous organization (DAO) for decentralized governance Certified Information Systems Security Professional (CISSP) TypeScript Intermediate
+350,Griffie Sheehy,    JavaScript Beginner
+468,Keith Earey,DataGenius Building a decentralized reputation system for online communities   Big Data Advance
+164,Paul Curzon,DataGenius Developing a privacy-preserving data sharing platform using homomorphic encryption Cisco Certified Network Professional (CCNP) Natural Language Processing (NLP) Advance
+164,Paul Curzon,PixelCloud Implementing a decentralized marketplace for non-fungible tokens (NFTs) Cisco Certified Network Professional (CCNP) Natural Language Processing (NLP) Advance
+164,Paul Curzon,TechMatrix Designing a blockchain-based supply chain management solution for traceability Cisco Certified Network Professional (CCNP) Natural Language Processing (NLP) Advance
+290,Jayme Adolf,ByteGenius Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   PHP Advance
+464,Goldi Willarton,InnovateWave Creating a data visualization dashboard for business intelligence reporting   C++ Advance
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications Certified Information Systems Security Professional (CISSP) Rust Intermediate
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications Microsoft Certified: Azure Security Engineer Associate Rust Intermediate
+197,Nikos Pumfrey,CodeBurst Building a distributed consensus algorithm for decentralized applications VMware Certified Design Expert (VCDX) Rust Intermediate
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate Docker Advance
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model VMware Certified Professional - Data Center Virtualization (VCP-DCV) Docker Advance
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model CompTIA IT Fundamentals (ITF+) Docker Advance
+29,Lilllie Allot,ByteBlaze Building a machine learning model for predictive analytics in cybersecurity   Python Beginner
+388,Breena Minelli,  Project Management Professional (PMP) Data Science Advance
+392,Marylinda Cazereau,AppWorks Designing a distributed ledger system for transparent record-keeping   Jenkins Intermediate
+392,Marylinda Cazereau,InnovateSavvy Building a decentralized finance (DeFi) platform for peer-to-peer lending   Jenkins Intermediate
+508,Brit Simoncini,  Microsoft Certified: Azure Data Engineer Associate Natural Language Processing (NLP) Advance
+508,Brit Simoncini,  Microsoft Certified: Azure Solutions Architect Expert Natural Language Processing (NLP) Advance
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance VMware Certified Associate - Digital Business Transformation (VCA-DBT) SOAP Beginner
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Machine Learning Engineer SOAP Beginner
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Data Engineer SOAP Beginner
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance Google Professional Cloud Architect SOAP Beginner
+101,Belvia Blackborough,DataGenius Implementing real-time data streaming for monitoring system performance AWS Certified Solutions Architect - Professional SOAP Beginner
+247,Stavros Megainey,TechCraft Implementing DevOps practices for continuous integration and delivery Microsoft Certified: Azure Developer Associate TypeScript Intermediate
+135,Steward Dreini,TechCraft Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi)   Swift Intermediate
+143,Paton Toopin,CyberDynamics Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Python Advance
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate ASP.NET Advance
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model VMware Certified Professional - Data Center Virtualization (VCP-DCV) ASP.NET Advance
+389,Grantham Waslin,CodeBlaze Developing a decentralized autonomous organization (DAO) governance model CompTIA IT Fundamentals (ITF+) ASP.NET Advance
+92,Nikolaus Mariel,CodeNexus Designing a decentralized finance (DeFi) derivatives platform for risk management   Vue.js Intermediate
+94,Waldo Cobleigh,PixelWave Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Ruby on Rails Advance
+170,Roxi Jockle,  Microsoft Certified: Azure AI Engineer Associate Go Advance
+316,Forrester Standbrook,    PHP Beginner
+24,Shurlocke Rittelmeyer,ByteBlaze Building a scalable backend system using serverless architecture Microsoft Certified: Azure Fundamentals Git Intermediate
+506,Dalton Quelch,PixelCloud Designing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Data Engineer RESTful APIs Beginner
+148,Crista Shelton,ByteCloud Building an automated incident response system for cybersecurity   Go Intermediate
+148,Crista Shelton,ByteBlaze Implementing a decentralized finance (DeFi) derivatives platform for risk management   Go Intermediate
+141,Sonya Triplet,CyberMatrix Developing a hybrid cloud infrastructure for flexible resource management Google Professional Cloud Architect Kubernetes Beginner
+141,Sonya Triplet,InnovateMatrix Building a distributed consensus algorithm for decentralized applications Google Professional Cloud Architect Kubernetes Beginner
+224,Wainwright Pawson,ByteHub Designing a geospatial application for location-based services CompTIA A+ Kotlin Advance
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Google Professional Cloud Architect C++ Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Microsoft Certified: Azure Data Engineer Associate C++ Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Project Management Professional (PMP) C++ Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Google Professional Cloud Architect C++ Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Microsoft Certified: Azure Data Engineer Associate C++ Intermediate
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Project Management Professional (PMP) C++ Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Cloud Architect C++ Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Data Engineer Associate C++ Intermediate
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Project Management Professional (PMP) C++ Intermediate
+369,Dunc Probart,CodeSavvy Implementing a decentralized marketplace for non-fungible tokens (NFTs) Cisco Certified DevNet Professional Rust Intermediate
+369,Dunc Probart,CodeSavvy Implementing a decentralized marketplace for non-fungible tokens (NFTs) CompTIA Advanced Security Practitioner (CASP+) Rust Intermediate
+369,Dunc Probart,CodeSavvy Implementing a decentralized marketplace for non-fungible tokens (NFTs) AWS Certified DevOps Engineer - Professional Rust Intermediate
+369,Dunc Probart,DataSphere Designing a decentralized exchange (DEX) for token swaps and liquidity pooling Cisco Certified DevNet Professional Rust Intermediate
+369,Dunc Probart,DataSphere Designing a decentralized exchange (DEX) for token swaps and liquidity pooling CompTIA Advanced Security Practitioner (CASP+) Rust Intermediate
+369,Dunc Probart,DataSphere Designing a decentralized exchange (DEX) for token swaps and liquidity pooling AWS Certified DevOps Engineer - Professional Rust Intermediate
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending VMware Certified Associate - Digital Business Transformation (VCA-DBT) Java Beginner
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending CompTIA IT Fundamentals (ITF+) Java Beginner
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage VMware Certified Associate - Digital Business Transformation (VCA-DBT) Java Beginner
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage CompTIA IT Fundamentals (ITF+) Java Beginner
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance VMware Certified Associate - Digital Business Transformation (VCA-DBT) Java Beginner
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance CompTIA IT Fundamentals (ITF+) Java Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Microsoft Certified: Azure Fundamentals Embedded Systems Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Google Professional Cloud Network Engineer Embedded Systems Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional Embedded Systems Beginner
+158,Kania Haggus,CodeCraft Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Certified Information Security Manager (CISM) Embedded Systems Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Microsoft Certified: Azure Fundamentals Embedded Systems Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Google Professional Cloud Network Engineer Embedded Systems Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity AWS Certified DevOps Engineer - Professional Embedded Systems Beginner
+158,Kania Haggus,CodeWave Building a machine learning model for predictive analytics in cybersecurity Certified Information Security Manager (CISM) Embedded Systems Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Microsoft Certified: Azure Fundamentals Embedded Systems Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Google Professional Cloud Network Engineer Embedded Systems Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading AWS Certified DevOps Engineer - Professional Embedded Systems Beginner
+158,Kania Haggus,PixelCloud Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Security Manager (CISM) Embedded Systems Beginner
+435,Binny Smalman,    Robotics Advance
+377,Eziechiele Laba,CyberDynamics Building a decentralized marketplace using blockchain smart contracts Microsoft Certified: Azure Solutions Architect Expert Internet of Things Intermediate
+423,Vin Dahlgren,    Behavior-Driven Development (BDD) Intermediate
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security Google Professional Cloud Network Engineer Spring Framework Intermediate
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security Microsoft Certified: Azure Developer Associate Spring Framework Intermediate
+203,Oneida Bigby,TechSavvy Building a continuous monitoring solution for infrastructure security CompTIA Cybersecurity Analyst (CySA+) Spring Framework Intermediate
+157,Estell Stanney,CodeNest Building a collaborative project management platform for teams   Python Beginner
+157,Estell Stanney,AppBlast Building a mobile wallet application for digital currency transactions   Python Beginner
+58,Ricca Adriaan,InnovatePulse Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Information Systems Security Professional (CISSP) Natural Language Processing (NLP) Intermediate
+58,Ricca Adriaan,InnovatePulse Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision Certified Cloud Security Professional (CCSP) Natural Language Processing (NLP) Intermediate
+362,Nigel Lewing,InnovateMatrix Designing a decentralized exchange (DEX) aggregator for optimized token trading Certified Information Systems Auditor (CISA) HTML/CSS Beginner
+138,Vince Lideard,AppBlast Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi)   Flask Beginner
+138,Vince Lideard,TechNest Optimizing database performance and scalability for high-volume data processing   Flask Beginner
+124,Francesco Mosedall,PixelNest Integrating AI-driven automation for optimizing IT operations   Embedded Systems Advance
+124,Francesco Mosedall,TechSavvy Building a continuous monitoring solution for infrastructure security   Embedded Systems Advance
+250,Kirsten Reagan,DataMatrix Building a continuous monitoring solution for infrastructure security   Node.js Advance
+423,Vin Dahlgren,    GraphQL Intermediate
+298,Willi Leate,CodeCrafters Implementing a data loss prevention solution for sensitive data protection   WebSockets Intermediate
+298,Willi Leate,InnovateMatrix Implementing a decentralized exchange (DEX) for cryptocurrency trading   WebSockets Intermediate
+124,Francesco Mosedall,PixelNest Integrating AI-driven automation for optimizing IT operations   Artificial Intelligence Intermediate
+124,Francesco Mosedall,TechSavvy Building a continuous monitoring solution for infrastructure security   Artificial Intelligence Intermediate
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance Cisco Certified Design Professional (CCDP) Behavior-Driven Development (BDD) Beginner
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance Certified Information Systems Auditor (CISA) Behavior-Driven Development (BDD) Beginner
+127,Boycie Holdren,ByteHub Implementing server-side rendering for optimized web performance VMware Certified Associate - Digital Business Transformation (VCA-DBT) Behavior-Driven Development (BDD) Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending Cisco Certified Design Professional (CCDP) Behavior-Driven Development (BDD) Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending Certified Information Systems Auditor (CISA) Behavior-Driven Development (BDD) Beginner
+127,Boycie Holdren,CyberSphere Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending VMware Certified Associate - Digital Business Transformation (VCA-DBT) Behavior-Driven Development (BDD) Beginner
+427,Bertina Simms,PixelNest Designing a decentralized finance (DeFi) derivatives platform for risk management   Java Intermediate
+427,Bertina Simms,PixelWave Building a collaborative project management platform for teams   Java Intermediate
+68,Clem Latan,AppMatrix Building a fault-tolerant distributed messaging system Certified Cloud Security Professional (CCSP) Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+68,Clem Latan,AppMatrix Building a fault-tolerant distributed messaging system Microsoft Certified: Azure Administrator Associate Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+68,Clem Latan,DataMatrix Implementing differential privacy techniques for data anonymization Certified Cloud Security Professional (CCSP) Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+68,Clem Latan,DataMatrix Implementing differential privacy techniques for data anonymization Microsoft Certified: Azure Administrator Associate Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+142,Megen Cortese,ByteBlaze Building a data lake for centralized storage and analysis of big data   Spring Framework Intermediate
+155,Godfry Geraldo,  Cisco Certified Network Professional (CCNP) Kubernetes Intermediate
+155,Godfry Geraldo,  Google Professional Machine Learning Engineer Kubernetes Intermediate
+155,Godfry Geraldo,  CompTIA Security+ Kubernetes Intermediate
+117,Kristy Melladew,  Certified Cloud Security Professional (CCSP) HTML/CSS Advance
+117,Kristy Melladew,  Google Professional Cloud Developer HTML/CSS Advance
+441,Diego Iskowicz,TechNest Designing a blockchain-based supply chain management solution for traceability Google Professional Collaboration Engineer Agile Methodologies Advance
+441,Diego Iskowicz,PixelGenius Designing a decentralized exchange (DEX) for token swaps and liquidity pooling Google Professional Collaboration Engineer Agile Methodologies Advance
+125,Lyndel Ziemen,CyberMatrix Designing a decentralized social media platform for censorship-resistant communication   GraphQL Beginner
+238,Valera Tournay,TechSavvy Designing a data governance framework for regulatory compliance Cisco Certified Network Associate (CCNA) Hibernate Beginner
+238,Valera Tournay,TechSavvy Designing a data governance framework for regulatory compliance Microsoft Certified: Azure Solutions Architect Expert Hibernate Beginner
+238,Valera Tournay,CyberForge Developing a scalable web application using microservices architecture Cisco Certified Network Associate (CCNA) Hibernate Beginner
+238,Valera Tournay,CyberForge Developing a scalable web application using microservices architecture Microsoft Certified: Azure Solutions Architect Expert Hibernate Beginner
+484,Cathleen Beamson,TechNest Building a decentralized exchange (DEX) for tokenized asset trading Certified Information Security Manager (CISM) Scala Advance
+120,Mady Arstingall,CodeNest Developing a privacy-preserving data sharing platform using homomorphic encryption   Computer Vision Intermediate
+120,Mady Arstingall,CodeCraft Building a fault-tolerant distributed messaging system   Computer Vision Intermediate
+120,Mady Arstingall,InnovateSavvy Building a decentralized storage network for secure and censorship-resistant file storage   Computer Vision Intermediate
+120,Mady Arstingall,TechSavvy Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   Computer Vision Intermediate
+378,Cory Romaynes,    SQL Beginner
+454,Jonas Greed,ByteCloud Designing a data classification system for information governance Certified Cloud Security Professional (CCSP) Rust Beginner
+225,Gwenora Arne,CyberMatrix Implementing a decentralized identity management solution using decentralized identifiers (DIDs)   PHP Beginner
+120,Mady Arstingall,CodeNest Developing a privacy-preserving data sharing platform using homomorphic encryption   PHP Intermediate
+120,Mady Arstingall,CodeCraft Building a fault-tolerant distributed messaging system   PHP Intermediate
+120,Mady Arstingall,InnovateSavvy Building a decentralized storage network for secure and censorship-resistant file storage   PHP Intermediate
+120,Mady Arstingall,TechSavvy Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   PHP Intermediate
+355,Robbie Stooke,  Google Professional Machine Learning Engineer RESTful APIs Intermediate
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Google Professional Cloud Architect C# Advance
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Microsoft Certified: Azure Data Engineer Associate C# Advance
+35,Neall McCurlye,InnovateForge Developing a decentralized prediction market platform for crowd-sourced forecasting Project Management Professional (PMP) C# Advance
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Google Professional Cloud Architect C# Advance
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Microsoft Certified: Azure Data Engineer Associate C# Advance
+35,Neall McCurlye,CodePulse Designing a decentralized social media platform for censorship-resistant communication Project Management Professional (PMP) C# Advance
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Google Professional Cloud Architect C# Advance
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Microsoft Certified: Azure Data Engineer Associate C# Advance
+35,Neall McCurlye,CyberDynamics Implementing a decentralized autonomous organization (DAO) for decentralized governance Project Management Professional (PMP) C# Advance
+257,Fransisco Connelly,DataWorks Optimizing database performance and scalability for high-volume data processing CompTIA Advanced Security Practitioner (CASP+) Hibernate Advance
+257,Fransisco Connelly,ByteHub Building a blockchain-based decentralized finance (DeFi) protocol for liquidity provision CompTIA Advanced Security Practitioner (CASP+) Hibernate Advance
+352,La verne Tunna,CyberBlast Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Google Professional Cloud Developer Ruby on Rails Intermediate
+24,Shurlocke Rittelmeyer,ByteBlaze Building a scalable backend system using serverless architecture Microsoft Certified: Azure Fundamentals Kotlin Advance
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending VMware Certified Associate - Digital Business Transformation (VCA-DBT) Flask Intermediate
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending CompTIA IT Fundamentals (ITF+) Flask Intermediate
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage VMware Certified Associate - Digital Business Transformation (VCA-DBT) Flask Intermediate
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage CompTIA IT Fundamentals (ITF+) Flask Intermediate
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance VMware Certified Associate - Digital Business Transformation (VCA-DBT) Flask Intermediate
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance CompTIA IT Fundamentals (ITF+) Flask Intermediate
+292,Curt Cannop,  CompTIA Security+ Test-Driven Development (TDD) Beginner
+499,Stevana Surmeyers,  Google Professional Cloud Security Engineer Microservices Architecture Beginner
+89,Ward Gherardelli,CodeNexus Designing a distributed file system for efficient data storage and retrieval Cisco Certified DevNet Associate ASP.NET Beginner
+357,Lil Lack,CodeBlaze Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi) CompTIA Security+ Kubernetes Intermediate
+258,Simmonds Sindell,    Embedded Systems Intermediate
+379,Lanita Salmon,DataGenius Designing and deploying a high-availability architecture for web applications ITIL Foundation Certification Node.js Advance
+489,Eve Veryard,CodeCraft Implementing single sign-on authentication for seamless user access Cisco Certified Network Professional (CCNP) Rust Advance
+489,Eve Veryard,ByteBlaze Designing a serverless data processing pipeline for real-time analytics Cisco Certified Network Professional (CCNP) Rust Advance
+307,Mariquilla Fishleigh,TechSavvy Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending   HTML/CSS Beginner
+303,Kimble Lilloe,DataWorks Developing a peer-to-peer lending platform with blockchain technology Google Associate Cloud Engineer ASP.NET Advance
+40,Quintana Kelberer,TechSavvy Implementing a decentralized finance (DeFi) derivatives platform for risk management   Flask Advance
+40,Quintana Kelberer,TechCraft Implementing a decentralized autonomous organization (DAO) for decentralized governance   Flask Advance
+467,Rosalynd Scothron,  Microsoft Certified: Azure Developer Associate Rust Advance
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Associate Cloud Engineer Java Intermediate
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Google Professional Data Engineer Java Intermediate
+172,Rodrique Skaid,AppMatrix Building a decentralized reputation system for online communities Cisco Certified DevNet Associate Java Intermediate
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Associate Cloud Engineer Java Intermediate
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Google Professional Data Engineer Java Intermediate
+172,Rodrique Skaid,ByteCloud Developing a cybersecurity solution for threat detection and response Cisco Certified DevNet Associate Java Intermediate
+202,Bernetta Schinetti,DataMatrix Designing a decentralized autonomous organization (DAO) for decentralized governance   Django Advance
+352,La verne Tunna,CyberBlast Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading Google Professional Cloud Developer Scala Intermediate
+41,Richmond Dorn,ByteCloud Developing a peer-to-peer lending platform with blockchain technology Certified Cloud Security Professional (CCSP) SQL Advance
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance Cisco Certified Entry Networking Technician (CCENT) Spring Framework Intermediate
+299,Taite Tipping,DataWorks Implementing a decentralized autonomous organization (DAO) for decentralized governance AWS Certified Solutions Architect - Professional Spring Framework Intermediate
+12,Ruby Dunning,InnovateMatrix Developing a cybersecurity solution for threat detection and response Cisco Certified Design Professional (CCDP) Artificial Intelligence Beginner
+12,Ruby Dunning,TechNest Implementing a decentralized exchange (DEX) for token swaps and liquidity pooling Cisco Certified Design Professional (CCDP) Artificial Intelligence Beginner
+149,Christiane Sharer,TechNest Developing a chatbot using natural language processing for customer support Microsoft Certified: Azure Administrator Associate PHP Beginner
+149,Christiane Sharer,AppNexus Developing a decentralized autonomous organization (DAO) governance model Microsoft Certified: Azure Administrator Associate PHP Beginner
+149,Christiane Sharer,CyberBlast Designing a decentralized storage network for distributed file storage Microsoft Certified: Azure Administrator Associate PHP Beginner
+102,Lee Patillo,DataSphere Building a content management system with headless CMS architecture   Behavior-Driven Development (BDD) Beginner
+102,Lee Patillo,CodeSavvy Developing a compliance management platform for regulatory requirements   Behavior-Driven Development (BDD) Beginner
+102,Lee Patillo,DataMatrix Integrating blockchain technology for secure transactions in a financial application   Behavior-Driven Development (BDD) Beginner
+392,Marylinda Cazereau,AppWorks Designing a distributed ledger system for transparent record-keeping   Swift Intermediate
+392,Marylinda Cazereau,InnovateSavvy Building a decentralized finance (DeFi) platform for peer-to-peer lending   Swift Intermediate
+135,Steward Dreini,TechCraft Building a decentralized application (DApp) ecosystem for decentralized finance (DeFi)   Scrum Intermediate
+258,Simmonds Sindell,    Python Advance
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending VMware Certified Associate - Digital Business Transformation (VCA-DBT) GraphQL Beginner
+497,Jabez Buck,InnovateForge Building a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending CompTIA IT Fundamentals (ITF+) GraphQL Beginner
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage VMware Certified Associate - Digital Business Transformation (VCA-DBT) GraphQL Beginner
+497,Jabez Buck,CodeCraft Designing a decentralized storage network for distributed file storage CompTIA IT Fundamentals (ITF+) GraphQL Beginner
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance VMware Certified Associate - Digital Business Transformation (VCA-DBT) GraphQL Beginner
+497,Jabez Buck,ByteHub Implementing a decentralized autonomous organization (DAO) for decentralized governance CompTIA IT Fundamentals (ITF+) GraphQL Beginner
+69,Konstantin Harfoot,CyberBlast Developing a blockchain-based decentralized finance (DeFi) protocol for liquidity provision   Big Data Intermediate
+69,Konstantin Harfoot,ByteGenius Implementing a zero-trust security model for network security   Big Data Intermediate
+69,Konstantin Harfoot,ByteHub Designing a federated authentication system for seamless user access   Big Data Intermediate
+252,Carolina Guillond,TechForge Integrating biometric authentication for user identity verification   C++ Advance
+215,Hatty Veryard,CodeSavvy Developing a decentralized autonomous liquidity protocol for decentralized finance (DeFi)   Data Science Intermediate
+215,Hatty Veryard,DataWorks Creating a knowledge base system for internal documentation and collaboration   Data Science Intermediate
+242,Otha Sherratt,DataSphere Building a blockchain-based decentralized exchange (DEX) for tokenized asset trading AWS Certified DevOps Engineer - Professional GraphQL Beginner
+242,Otha Sherratt,CyberForge Developing a blockchain-based decentralized finance (DeFi) lending platform for peer-to-peer lending AWS Certified DevOps Engineer - Professional GraphQL Beginner
+224,Wainwright Pawson,ByteHub Designing a geospatial application for location-based services CompTIA A+ Machine Learning Beginner
+420,Anselm Saby,DataSphere Building a decentralized finance (DeFi) platform for peer-to-peer lending Google Professional Cloud Architect Node.js Intermediate
+420,Anselm Saby,DataSphere Building a decentralized finance (DeFi) platform for peer-to-peer lending Microsoft Certified: Azure Fundamentals Node.js Intermediate
+420,Anselm Saby,DataSphere Building a decentralized finance (DeFi) platform for peer-to-peer lending Google Professional Machine Learning Engineer Node.js Intermediate
+420,Anselm Saby,DataSphere Building a decentralized finance (DeFi) platform for peer-to-peer lending Cisco Certified Network Professional (CCNP) Node.js Intermediate
+381,Rayna Grenfell,    Robotics Beginner
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations CompTIA A+ Microservices Architecture Advance
+408,Angie Gerriessen,CodeWave Integrating AI-driven automation for optimizing IT operations VMware Certified Professional - Network Virtualization (VCP-NV) Microservices Architecture Advance
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption CompTIA A+ Microservices Architecture Advance
+408,Angie Gerriessen,TechNest Building a secure messaging platform with end-to-end encryption VMware Certified Professional - Network Virtualization (VCP-NV) Microservices Architecture Advance
+68,Clem Latan,AppMatrix Building a fault-tolerant distributed messaging system Certified Cloud Security Professional (CCSP) Jenkins Beginner
+68,Clem Latan,AppMatrix Building a fault-tolerant distributed messaging system Microsoft Certified: Azure Administrator Associate Jenkins Beginner
+68,Clem Latan,DataMatrix Implementing differential privacy techniques for data anonymization Certified Cloud Security Professional (CCSP) Jenkins Beginner
+68,Clem Latan,DataMatrix Implementing differential privacy techniques for data anonymization Microsoft Certified: Azure Administrator Associate Jenkins Beginner
+424,Loydie Wych,    HTML/CSS Intermediate
+509,Karen Seckington,    Ruby on Rails Intermediate
+179,Swen Yarrington,CodeNest Building a collaborative project management platform for teams Google Professional Data Engineer Continuous Integration/Continuous Deployment (CI/CD) Intermediate
+254,Hinze Teresi,CodeCraft Designing a decentralized finance (DeFi) derivatives platform for risk management   Kotlin Intermediate
+254,Hinze Teresi,DigitalDynamics Implementing a decentralized identity management solution using decentralized identifiers (DIDs)   Kotlin Intermediate

@@ -1,0 +1,51 @@
+CERTIFICATE_ID,CERTIFICATE_NAME
+1,AWS Certified Solutions Architect - Associate
+2,AWS Certified Developer - Associate
+3,AWS Certified SysOps Administrator - Associate
+4,AWS Certified Solutions Architect - Professional
+5,AWS Certified DevOps Engineer - Professional
+6,AWS Certified Security - Specialty
+7,AWS Certified Advanced Networking - Specialty
+8,Google Associate Cloud Engineer
+9,Google Professional Cloud Architect
+10,Google Professional Data Engineer
+11,Google Professional Cloud Developer
+12,Google Professional Cloud Network Engineer
+13,Google Professional Cloud Security Engineer
+14,Google Professional Collaboration Engineer
+15,Google Professional Machine Learning Engineer
+16,Microsoft Certified: Azure Fundamentals
+17,Microsoft Certified: Azure Administrator Associate
+18,Microsoft Certified: Azure Developer Associate
+19,Microsoft Certified: Azure Solutions Architect Expert
+20,Microsoft Certified: Azure DevOps Engineer Expert
+21,Microsoft Certified: Azure Security Engineer Associate
+22,Microsoft Certified: Azure AI Engineer Associate
+23,Microsoft Certified: Azure Data Engineer Associate
+24,CompTIA IT Fundamentals (ITF+)
+25,CompTIA A+
+26,CompTIA Network+
+27,CompTIA Security+
+28,CompTIA Cybersecurity Analyst (CySA+)
+29,CompTIA Advanced Security Practitioner (CASP+)
+30,Cisco Certified Entry Networking Technician (CCENT)
+31,Cisco Certified Network Associate (CCNA)
+32,Cisco Certified Network Professional (CCNP)
+33,Cisco Certified Design Associate (CCDA)
+34,Cisco Certified Design Professional (CCDP)
+35,Cisco Certified DevNet Associate
+36,Cisco Certified DevNet Professional
+37,Certified Ethical Hacker (CEH)
+38,Certified Information Systems Security Professional (CISSP)
+39,Certified Information Security Manager (CISM)
+40,Certified Cloud Security Professional (CCSP)
+41,Certified Information Systems Auditor (CISA)
+42,VMware Certified Associate - Digital Business Transformation (VCA-DBT)
+43,VMware Certified Professional - Data Center Virtualization (VCP-DCV)
+44,VMware Certified Professional - Network Virtualization (VCP-NV)
+45,VMware Certified Advanced Professional - Data Center Design (VCAP-DCD)
+46,VMware Certified Advanced Professional - Cloud Management and Automation (VCAP-CMA)
+47,VMware Certified Design Expert (VCDX)
+48,Certified ScrumMaster (CSM)
+49,Project Management Professional (PMP)
+50,ITIL Foundation Certification
